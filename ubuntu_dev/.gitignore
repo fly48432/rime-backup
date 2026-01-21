@@ -1,0 +1,3 @@
+build/
+*.userdb/
+installation.yaml  # 每个设备的 ID 不一样，最好不要同步这个，或者同步后手动改

@@ -1,0 +1,2605 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.10.0
+#@/tick	10680
+#@/user_id	ubuntu_dev
+A 	A	c=3 d=1.87542 t=10680
+B B A E 	BBAE	c=1 d=0.621885 t=10680
+C 	C	c=1 d=0.802519 t=10680
+L 	L	c=1 d=0.778801 t=10680
+O 	O	c=9 d=4.41417 t=10680
+P 	P	c=21 d=11.1837 t=10680
+Q 	Q	c=2 d=1.22624 t=10680
+S 	S	c=1 d=0.847893 t=10680
+U 	U	c=1 d=0.970445 t=10680
+V 	V	c=1 d=0.600495 t=10680
+a 	啊	c=93 d=8.59631 t=10680
+a 	阿	c=1 d=0.574072 t=10680
+a jian 	阿健	c=3 d=1.16249 t=10680
+a wang 	啊旺	c=1 d=0.557106 t=10680
+ai bian 	癌变	c=4 d=2.62988 t=10680
+ai bing 	爱兵	c=-1 d=0 t=10680
+an 	俺	c=1 d=0.847893 t=10680
+an 	按	c=4 d=1.73332 t=10680
+an 	案	c=1 d=0.574072 t=10680
+an jian 	按键	c=2 d=1.28872 t=10680
+an men 	俺们	c=1 d=0.456119 t=10680
+an niu 	按钮	c=18 d=4.69272 t=10680
+an pai 	安排	c=2 d=1.52642 t=10680
+an quan bian ji 	安全边际	c=1 d=0.600495 t=10680
+an zhao 	按照	c=1 d=0.771052 t=10680
+an zhuang 	安装	c=11 d=6.36852 t=10680
+ao men 	澳门	c=2 d=1.24076 t=10680
+ba 	吧	c=96 d=9.11484 t=10680
+ba 	把	c=20 d=3.3861 t=10680
+ba fei te 	巴菲特	c=1 d=0.865022 t=10680
+ba gua 	八卦	c=2 d=1.27541 t=10680
+ba jiu qian 	八九千	c=1 d=0.600495 t=10680
+ba le 	罢了	c=1 d=0.701174 t=10680
+ba wo 	把我	c=1 d=0.927743 t=10680
+bai kuai 	白块	c=1 d=0.856415 t=10680
+bai ming dan 	白名单	c=1 d=0.66034 t=10680
+bai shua 	白刷	c=1 d=0.970445 t=10680
+bai wan 	百万	c=1 d=0.715338 t=10680
+ban 	办	c=3 d=1.63126 t=10680
+ban 	半	c=1 d=0.794533 t=10680
+ban ben 	版本	c=21 d=7.04511 t=10680
+ban dao 	搬到	c=1 d=0.67032 t=10680
+ban dao ti 	半导体	c=2 d=1.17526 t=10680
+ban gong 	办公	c=2 d=1.44198 t=10680
+ban gong shi 	办公室	c=1 d=0.822835 t=10680
+ban nian 	半年	c=1 d=0.767206 t=10680
+ban tian 	半天	c=0 d=0.0722527 t=10680
+ban xiao shi 	半小时	c=2 d=1.42477 t=10680
+bang 	帮	c=34 d=10.9323 t=10680
+bang kan 	帮看	c=1 d=0.755783 t=10680
+bang kan xia 	帮看下	c=4 d=2.20398 t=10680
+bang mang 	帮忙	c=5 d=2.80406 t=10680
+bang ni 	帮你	c=1 d=0.810584 t=10680
+bang wo 	帮我	c=12 d=3.42009 t=10680
+bao 	包	c=3 d=1.53365 t=10680
+bao 	宝	c=11 d=3.66568 t=10680
+bao 	报	c=1 d=0.806541 t=10680
+bao bao 	宝宝	c=1 d=0.771052 t=10680
+bao chi 	保持	c=1 d=0.557106 t=10680
+bao cun 	保存	c=1 d=0.694196 t=10680
+bao cuo 	报错	c=17 d=7.56069 t=10680
+bao guo 	包裹	c=1 d=0.865022 t=10680
+bao jin zhuan 	抱金砖	c=1 d=0.628135 t=10680
+bao kuo 	包括	c=1 d=0.847893 t=10680
+bao liu 	保留	c=5 d=3.33287 t=10680
+bei 	呗	c=5 d=2.55338 t=10680
+bei 	杯	c=2 d=1.43389 t=10680
+bei 	被	c=7 d=2.39553 t=10680
+bei fen 	备份	c=3 d=2.24223 t=10680
+bei ge 	杯哥	c=1 d=0.440431 t=10680
+bei jing 	北京	c=6 d=2.19357 t=10680
+bei jing 	背景	c=1 d=0.891366 t=10680
+bei ying 	背影	c=2 d=1.34124 t=10680
+bei yong 	备用	c=1 d=0.774917 t=10680
+ben 	笨	c=1 d=0.918513 t=10680
+ben di 	本地	c=7 d=3.38049 t=10680
+ben jin 	本金	c=1 d=0.778801 t=10680
+ben lai 	本来	c=2 d=1.47392 t=10680
+ben shen 	本身	c=1 d=0.358796 t=10680
+ben shu 	本书	c=1 d=0.937067 t=10680
+ben yi 	本意	c=1 d=0.506617 t=10680
+ben zhou 	本周	c=1 d=0.843665 t=10680
+bi 	比	c=3 d=1.43096 t=10680
+bi 	笔	c=2 d=1.58193 t=10680
+bi bu shang 	比不上	c=1 d=0.843665 t=10680
+bi jiao 	比较	c=10 d=2.63956 t=10680
+bi mian 	避免	c=1 d=0.663651 t=10680
+bi ni 	比你	c=1 d=0.752015 t=10680
+bi ru 	比如	c=2 d=0.970445 t=10680
+bi yao 	必要	c=3 d=1.19031 t=10680
+bi zhi 	壁纸	c=1 d=0.909373 t=10680
+bian 	边	c=14 d=5.03951 t=10680
+bian chi 	边吃	c=1 d=0.960789 t=10680
+bian dong 	变动	c=1 d=0.886921 t=10680
+bian geng 	变更	c=1 d=0.965606 t=10680
+bian ji 	编辑	c=3 d=2.00827 t=10680
+bian kuang 	边框	c=1 d=0.856415 t=10680
+bian li dian 	便利店	c=1 d=0.729789 t=10680
+bian liang 	变量	c=1 d=0.729789 t=10680
+bian yi 	编译	c=12 d=5.56965 t=10680
+bian yuan 	边缘	c=1 d=0.786627 t=10680
+biao 	表	c=1 d=0.970445 t=10680
+biao bai 	表白	c=1 d=0.960789 t=10680
+biao da 	表达	c=1 d=0.726149 t=10680
+biao dai 	表带	c=1 d=0.946486 t=10680
+biao ge 	表格	c=2 d=1.46022 t=10680
+biao ji 	标记	c=1 d=0.417024 t=10680
+bie 	别	c=4 d=1.98177 t=10680
+bie de 	别的	c=4 d=2.26347 t=10680
+bie ren 	别人	c=2 d=0.955998 t=10680
+bie zhuan 	别赚	c=1 d=0.937067 t=10680
+bing 	冰	c=2 d=0.748264 t=10680
+bing 	并	c=5 d=2.75705 t=10680
+bing bing 	冰冰	c=2 d=1.66516 t=10680
+bing bing liang liang 	冰冰凉凉	c=1 d=0.740818 t=10680
+bing ge 	冰哥	c=1 d=0.965606 t=10680
+bo fang 	播放	c=3 d=2.75427 t=10680
+bo he 	薄荷	c=0 d=0.0932393 t=10680
+bo li 	玻璃	c=2 d=1.85132 t=10680
+bu 	不	c=16 d=3.16272 t=10680
+bu 	补	c=18 d=4.74646 t=10680
+bu bi 	不必	c=2 d=1.68062 t=10680
+bu bi 	不比	c=0 d=0.0615698 t=10680
+bu bi zhe 	不比这	c=1 d=0.618783 t=10680
+bu bu 	布布	c=1 d=0.970445 t=10680
+bu chong 	补充	c=2 d=1.42145 t=10680
+bu chu lai 	不出来	c=1 d=0.873716 t=10680
+bu cuo 	不错	c=1 d=0.927743 t=10680
+bu dai 	不带	c=1 d=0.576949 t=10680
+bu dao 	不到	c=4 d=1.47045 t=10680
+bu dou shi 	不都是	c=2 d=0.755783 t=10680
+bu dui 	不对	c=2 d=0.756899 t=10680
+bu dui jin 	不对劲	c=1 d=0.932393 t=10680
+bu fa 	不发	c=2 d=1.23193 t=10680
+bu fen 	部分	c=1 d=0.606531 t=10680
+bu gan 	不敢	c=1 d=0.537945 t=10680
+bu gao 	不高	c=2 d=0.97531 t=10680
+bu gen 	不跟	c=1 d=0.904837 t=10680
+bu guo 	不过	c=8 d=2.67901 t=10680
+bu hai shi 	不还是	c=0 d=0.0666976 t=10680
+bu hao 	不好	c=2 d=1.31959 t=10680
+bu hao chi 	不好吃	c=1 d=0.715338 t=10680
+bu hao gao 	不好搞	c=2 d=1.50259 t=10680
+bu hao kan 	不好看	c=2 d=1.37832 t=10680
+bu hao nong 	不好弄	c=1 d=0.418951 t=10680
+bu hui 	不会	c=6 d=2.62451 t=10680
+bu hui qu 	不会去	c=1 d=0.860708 t=10680
+bu jia 	不假	c=1 d=0.822835 t=10680
+bu jian 	不见	c=1 d=0.852144 t=10680
+bu jian dan 	不简单	c=1 d=0.95123 t=10680
+bu jie 	不解	c=1 d=0.412714 t=10680
+bu jin 	不近	c=0 d=0.0477114 t=10680
+bu jiu shi 	不就是	c=2 d=1.62926 t=10680
+bu ju 	布局	c=4 d=2.28677 t=10680
+bu kan 	不看	c=2 d=1.38827 t=10680
+bu ke 	不可	c=3 d=2.17349 t=10680
+bu ke neng 	不可能	c=1 d=0.657047 t=10680
+bu ke yi 	不可以	c=1 d=0.447088 t=10680
+bu liao jie 	不了解	c=2 d=1.16002 t=10680
+bu mai 	不卖	c=2 d=1.77699 t=10680
+bu mai che 	不买车	c=1 d=0.687289 t=10680
+bu nai shou 	不耐受	c=1 d=0.878096 t=10680
+bu neng 	不能	c=16 d=3.63226 t=10680
+bu qing chu 	不清楚	c=3 d=2.09287 t=10680
+bu qu 	不去	c=1 d=0.537945 t=10680
+bu que ding 	不确定	c=2 d=1.07763 t=10680
+bu rong yi 	不容易	c=1 d=0.394554 t=10680
+bu ru 	不如	c=1 d=0.491644 t=10680
+bu shang 	补上	c=1 d=0.68045 t=10680
+bu shao 	不少	c=5 d=1.5424 t=10680
+bu shao qian 	不少钱	c=1 d=0.697676 t=10680
+bu sheng xiao 	不生效	c=3 d=2.49615 t=10680
+bu shi 	不是	c=16 d=3.83788 t=10680
+bu shu fu 	不舒服	c=1 d=0.759572 t=10680
+bu shui 	补税	c=1 d=0.546074 t=10680
+bu shui jiao 	不睡觉	c=1 d=0.537945 t=10680
+bu shuo 	不说	c=1 d=0.856415 t=10680
+bu si jin qu 	不思进取	c=2 d=1.57659 t=10680
+bu tai 	不太	c=3 d=2.01317 t=10680
+bu tai he shi 	不太合适	c=1 d=0.97531 t=10680
+bu tie 	补贴	c=1 d=0.895834 t=10680
+bu tong 	不同	c=1 d=0.740818 t=10680
+bu tong guo 	不通过	c=1 d=0.869358 t=10680
+bu xian shi 	不显示	c=7 d=2.6051 t=10680
+bu xiang 	不想	c=1 d=0.752015 t=10680
+bu xiang ling 	不响铃	c=1 d=0.882496 t=10680
+bu xiao xin 	不小心	c=1 d=0.965606 t=10680
+bu xie yu 	不屑于	c=1 d=0.683861 t=10680
+bu xin 	不信	c=1 d=0.970445 t=10680
+bu xing 	不行	c=8 d=3.42196 t=10680
+bu xu yao 	不需要	c=1 d=0.650509 t=10680
+bu yao 	不要	c=5 d=2.57082 t=10680
+bu ye 	不也	c=1 d=0.650509 t=10680
+bu yi ding 	不一定	c=2 d=1.29714 t=10680
+bu yong 	不用	c=8 d=2.11198 t=10680
+bu yun xu 	不允许	c=1 d=0.748264 t=10680
+bu zai 	不再	c=4 d=2.48092 t=10680
+bu zheng chang 	不正常	c=2 d=1.66184 t=10680
+bu zhi 	布置	c=2 d=0.928681 t=10680
+bu zhi dao 	不知道	c=11 d=3.14697 t=10680
+bu zhi jie 	不直接	c=1 d=0.860708 t=10680
+bu zhi yu 	不至于	c=2 d=0.913931 t=10680
+bu zou 	不走	c=1 d=0.923116 t=10680
+bu zu se 	不阻塞	c=1 d=0.647264 t=10680
+cai 	才	c=13 d=3.59326 t=10680
+cai bao 	财报	c=1 d=0.366045 t=10680
+cai guo 	才过	c=1 d=0.786627 t=10680
+cai li 	彩礼	c=1 d=0.937067 t=10680
+cai mai 	才买	c=1 d=0.683861 t=10680
+cai neng 	才能	c=1 d=0.810584 t=10680
+cai shi chang 	菜市场	c=1 d=0.923116 t=10680
+cai you 	才有	c=1 d=0.97531 t=10680
+cai zhi 	材质	c=8 d=3.79549 t=10680
+can 	灿	c=1 d=0.847893 t=10680
+can kao 	参考	c=4 d=2.44172 t=10680
+can shu 	参数	c=2 d=1.46868 t=10680
+can yan 	灿岩	c=7 d=3.86706 t=10680
+can zha 	残渣	c=1 d=0.95123 t=10680
+cang 	仓	c=2 d=1.59213 t=10680
+cang ku 	仓库	c=18 d=6.23773 t=10680
+cao zuo 	操作	c=11 d=3.52595 t=10680
+ce 	测	c=1 d=0.551562 t=10680
+ce shi 	测试	c=3 d=1.3389 t=10680
+cha 	插	c=2 d=1.32606 t=10680
+cha 	查	c=1 d=0.786627 t=10680
+cha bu duo 	差不多	c=7 d=2.10717 t=10680
+cha dui 	插队	c=1 d=0.932393 t=10680
+cha kan 	查看	c=5 d=2.69383 t=10680
+cha yi 	差异	c=1 d=0.873716 t=10680
+cha zhao 	查找	c=2 d=1.90248 t=10680
+chai 	拆	c=1 d=0.913931 t=10680
+chai fen 	拆分	c=1 d=0.618783 t=10680
+chai jie 	拆解	c=3 d=2.41934 t=10680
+chan pin 	产品	c=6 d=3.17131 t=10680
+chang 	常	c=1 d=0.909373 t=10680
+chang an 	长按	c=2 d=0.82787 t=10680
+chang chang 	尝尝	c=1 d=0.960789 t=10680
+chang chi 	长持	c=1 d=0.744531 t=10680
+chang di 	场地	c=1 d=0.353454 t=10680
+chang jian 	常见	c=1 d=0.909373 t=10680
+chang jing 	场景	c=7 d=1.94231 t=10680
+chang qiao 	长桥	c=2 d=1.25006 t=10680
+chang shi jian 	长时间	c=1 d=0.882496 t=10680
+chang tu 	长途	c=1 d=0.752015 t=10680
+chao di 	抄底	c=2 d=1.7136 t=10680
+chao ge 	超哥	c=1 d=0.95123 t=10680
+chao ji 	超级	c=1 d=0.891366 t=10680
+chao lian jie 	超链接	c=1 d=0.843665 t=10680
+che 	车	c=3 d=2.27128 t=10680
+che di 	彻底	c=1 d=0.927743 t=10680
+che piao 	车票	c=2 d=1.46458 t=10680
+cheng 	成	c=3 d=1.62081 t=10680
+cheng ben 	成本	c=5 d=2.08601 t=10680
+cheng fa 	惩罚	c=2 d=1.88356 t=10680
+cheng gong 	成功	c=1 d=0.960789 t=10680
+cheng jiao 	成交	c=1 d=0.798516 t=10680
+cheng long 	程龙	c=3 d=2.32412 t=10680
+cheng xu yuan 	程序员	c=1 d=0.822835 t=10680
+cheng zu 	成组	c=2 d=1.2782 t=10680
+chi 	吃	c=9 d=3.6329 t=10680
+chi dao 	迟到	c=1 d=0.904837 t=10680
+chi fan 	吃饭	c=1 d=0.67032 t=10680
+chi wan 	吃完	c=1 d=0.571209 t=10680
+chi wan fan 	吃完饭	c=1 d=0.546074 t=10680
+chi xi 	吃席	c=1 d=0.726149 t=10680
+chi you 	持有	c=7 d=3.11478 t=10680
+chong 	充	c=1 d=1.03812 t=10680
+chong 	冲	c=2 d=1.1421 t=10680
+chong ban tian 	充半天	c=1 d=0.726149 t=10680
+chong bu jin qu 	充不进去	c=1 d=0.729789 t=10680
+chong dian 	充电	c=1 d=0.988574 t=10680
+chong fu 	重复	c=1 d=0.744531 t=10680
+chong jin qu 	冲进去	c=1 d=0.965606 t=10680
+chong qi 	重启	c=2 d=1.50265 t=10680
+chong tu 	冲突	c=5 d=3.0394 t=10680
+chong xin 	重新	c=2 d=1.75053 t=10680
+chong zhi 	充值	c=1 d=0.895834 t=10680
+chong zhi 	重置	c=2 d=1.41029 t=10680
+chong zhuang 	重装	c=2 d=1.64859 t=10680
+chou 	抽	c=1 d=0.869358 t=10680
+chou 	臭	c=1 d=0.865022 t=10680
+chou jiang 	抽奖	c=2 d=1.77009 t=10680
+chou kong 	抽空	c=3 d=1.64166 t=10680
+chu 	出	c=7 d=2.7808 t=10680
+chu 	初	c=2 d=1.38638 t=10680
+chu 	处	c=4 d=2.29091 t=10680
+chu diao 	出掉	c=1 d=0.663651 t=10680
+chu fa 	触发	c=21 d=5.08534 t=10680
+chu fei 	除非	c=3 d=1.17136 t=10680
+chu ge 	出个	c=1 d=0.535262 t=10680
+chu lai 	出来	c=7 d=2.81667 t=10680
+chu le 	除了	c=2 d=1.4282 t=10680
+chu li 	处理	c=23 d=7.9064 t=10680
+chu qu 	出去	c=1 d=0.918513 t=10680
+chu qu 	除去	c=1 d=0.733447 t=10680
+chu xing 	出行	c=1 d=0.755783 t=10680
+chu yi 	厨艺	c=1 d=0.886921 t=10680
+chu zhong 	初中	c=1 d=0.733447 t=10680
+chuan 	传	c=2 d=1.26524 t=10680
+chuan di 	传递	c=1 d=0.818731 t=10680
+chuan gei 	传给	c=1 d=0.806541 t=10680
+chuan ru 	传入	c=1 d=0.421052 t=10680
+chuan shuo 	传说	c=1 d=0.486752 t=10680
+chuang hu 	窗户	c=2 d=1.87897 t=10680
+chuang jian 	创建	c=2 d=1.15564 t=10680
+chui chui 	吹吹	c=1 d=0.814647 t=10680
+ci 	次	c=2 d=0.951309 t=10680
+ci 	此	c=5 d=2.20339 t=10680
+ci 	词	c=4 d=2.34093 t=10680
+ci dan 	此单	c=1 d=0.955998 t=10680
+ci hui 	词汇	c=3 d=2.15002 t=10680
+ci ku 	词库	c=3 d=1.62247 t=10680
+ci shi 	此时	c=2 d=1.18236 t=10680
+cong 	从	c=10 d=2.70831 t=10680
+cong ming 	聪明	c=1 d=0.878096 t=10680
+cong na 	从哪	c=1 d=0.71177 t=10680
+cui yi xia 	催一下	c=1 d=0.923116 t=10680
+cun 	存	c=1 d=0.506617 t=10680
+cun chu 	存储	c=2 d=1.42213 t=10680
+cun kuan 	存款	c=1 d=0.718923 t=10680
+cun zai 	存在	c=4 d=2.83518 t=10680
+cuo 	挫	c=1 d=0.44264 t=10680
+cuo 	搓	c=1 d=0.283654 t=10680
+cuo 	错	c=0 d=0.0279431 t=10680
+cuo lu shi 	错炉石	c=1 d=0.280832 t=10680
+da 	大	c=7 d=2.62622 t=10680
+da 	打	c=5 d=2.67709 t=10680
+da 	达	c=2 d=1.62286 t=10680
+da che 	打车	c=1 d=0.878096 t=10680
+da cheng 	达成	c=2 d=1.87954 t=10680
+da chu 	打出	c=1 d=0.895834 t=10680
+da dian 	打点	c=3 d=1.81835 t=10680
+da duan 	打断	c=2 d=1.56549 t=10680
+da gai 	大概	c=1 d=0.282239 t=10680
+da guo 	打过	c=2 d=1.43448 t=10680
+da kai 	打开	c=7 d=3.79683 t=10680
+da kui 	大亏	c=1 d=0.440431 t=10680
+da lao 	大佬	c=5 d=1.83722 t=10680
+da pei 	搭配	c=2 d=1.44343 t=10680
+da shang 	打上	c=0 d=0.0683861 t=10680
+da shang ka 	打上卡	c=1 d=0.687289 t=10680
+da wang 	大王	c=1 d=0.895834 t=10680
+da wang zhe 	打王者	c=1 d=0.606531 t=10680
+da xiang mu 	大项目	c=2 d=1.64576 t=10680
+da xue 	大学	c=1 d=0.683861 t=10680
+da yi xia 	打一下	c=1 d=0.873716 t=10680
+da yin 	打印	c=6 d=3.86875 t=10680
+da yu 	大于	c=1 d=0.913931 t=10680
+da zao shang 	大早上	c=1 d=0.666976 t=10680
+da zhi 	大致	c=3 d=1.47104 t=10680
+da zhu ma dian 	大驻马店	c=1 d=0.798516 t=10680
+da zi ti 	大字体	c=1 d=0.826959 t=10680
+dai 	带	c=2 d=0.772067 t=10680
+dai 	贷	c=2 d=1.70945 t=10680
+dai ban 	待办	c=1 d=0.941764 t=10680
+dai ding 	待定	c=1 d=0.913931 t=10680
+dai dong 	带动	c=1 d=0.95123 t=10680
+dai fan 	带饭	c=1 d=0.304222 t=10680
+dai huai le 	带坏了	c=1 d=0.97531 t=10680
+dai kuan 	贷款	c=3 d=2.40205 t=10680
+dai li 	代理	c=5 d=3.00076 t=10680
+dai ma 	代码	c=9 d=3.47946 t=10680
+dai ru 	带入	c=1 d=0.843665 t=10680
+dai shang 	带上	c=2 d=1.27901 t=10680
+dai ti 	代替	c=1 d=0.95123 t=10680
+dai yan zheng 	待验证	c=1 d=0.794533 t=10680
+dan 	但	c=8 d=3.10979 t=10680
+dan 	单	c=1 d=0.865022 t=10680
+dan dian 	单点	c=1 d=0.965606 t=10680
+dan hai you 	但还有	c=2 d=1.69388 t=10680
+dan hao 	单号	c=2 d=1.48572 t=10680
+dan shi 	但是	c=27 d=4.05717 t=10680
+dan wo men 	但我们	c=1 d=0.402524 t=10680
+dan xuan 	单选	c=3 d=2.36139 t=10680
+dan yang 	丹阳	c=1 d=0.891366 t=10680
+dan you shi 	但又是	c=1 d=0.704688 t=10680
+dan zhe 	但这	c=1 d=0.955998 t=10680
+dan zi 	单子	c=3 d=1.49888 t=10680
+dang 	当	c=3 d=1.13214 t=10680
+dang cheng 	当成	c=2 d=1.89771 t=10680
+dang ge 	当个	c=1 d=0.66034 t=10680
+dang qian 	当前	c=19 d=5.04985 t=10680
+dang shi 	当时	c=3 d=0.989647 t=10680
+dang wo 	当我	c=1 d=0.321422 t=10680
+dao 	刀	c=8 d=4.7608 t=10680
+dao 	到	c=39 d=6.52931 t=10680
+dao 	岛	c=6 d=3.04513 t=10680
+dao shi 	倒是	c=2 d=0.914887 t=10680
+dao shi 	到时	c=4 d=1.0377 t=10680
+dao zhe 	到这	c=1 d=0.882496 t=10680
+dao zhi 	导致	c=8 d=2.386 t=10680
+de 	得	c=10 d=2.56143 t=10680
+de 	的	c=457 d=22.4384 t=10680
+de jin 	得劲	c=1 d=0.748264 t=10680
+de le 	得了	c=1 d=0.594521 t=10680
+de yi 	得意	c=1 d=0.97531 t=10680
+deng 	等	c=8 d=3.1351 t=10680
+deng hui 	等会	c=1 d=0.755783 t=10680
+deng ji 	登记	c=2 d=0.666976 t=10680
+deng lu 	登录	c=4 d=3.47259 t=10680
+deng ni 	等你	c=1 d=0.774917 t=10680
+deng xia 	等下	c=4 d=1.42612 t=10680
+deng zhe 	等着	c=1 d=0.509157 t=10680
+di 	低	c=4 d=2.11194 t=10680
+di 	滴	c=2 d=1.74307 t=10680
+di 	第	c=1 d=0.774917 t=10680
+di bu 	底部	c=1 d=0.790571 t=10680
+di di 	弟弟	c=1 d=0.782705 t=10680
+di di di di 	嘀嘀嘀嘀	c=1 d=0.860708 t=10680
+di er ci 	第二次	c=1 d=0.755783 t=10680
+di fang 	地方	c=5 d=3.56532 t=10680
+di feng xian 	低风险	c=2 d=1.61712 t=10680
+di liao 	底料	c=1 d=0.778801 t=10680
+di wei 	地位	c=1 d=0.822835 t=10680
+di yi chu 	第一处	c=1 d=0.913931 t=10680
+dian 	店	c=3 d=1.58845 t=10680
+dian 	点	c=26 d=5.5313 t=10680
+dian 	电	c=1 d=0.733447 t=10680
+dian an 	点按	c=1 d=0.782705 t=10680
+dian chi 	电池	c=3 d=2.44726 t=10680
+dian ji 	点击	c=30 d=6.03317 t=10680
+dian li 	店里	c=2 d=0.865683 t=10680
+dian li 	电力	c=1 d=0.718923 t=10680
+dian nao 	电脑	c=7 d=4.23003 t=10680
+dian zhen 	点阵	c=1 d=0.927743 t=10680
+diao 	屌	c=2 d=1.59915 t=10680
+diao 	掉	c=3 d=1.26715 t=10680
+diao 	调	c=1 d=0.786627 t=10680
+diao 	钓	c=1 d=0.873716 t=10680
+diao cha 	调查	c=2 d=0.752247 t=10680
+diao da 	屌大	c=1 d=0.529936 t=10680
+diao yan 	调研	c=6 d=2.75425 t=10680
+diao yong 	调用	c=18 d=4.60092 t=10680
+die 	叠	c=1 d=0.786627 t=10680
+die 	跌	c=5 d=2.8569 t=10680
+die dai 	迭代	c=5 d=4.15523 t=10680
+die dao 	跌倒	c=1 d=0.869358 t=10680
+die ting 	跌停	c=1 d=0.68045 t=10680
+ding 	定	c=1 d=0.932393 t=10680
+ding hun 	订婚	c=3 d=0.933257 t=10680
+ding wei 	定位	c=1 d=0.465334 t=10680
+ding yi 	定义	c=1 d=0.918513 t=10680
+dong 	动	c=0 d=0.0960789 t=10680
+dong 	懂	c=1 d=0.97531 t=10680
+dong bu si 	冻不死	c=1 d=0.744531 t=10680
+dong hua 	动画	c=1 d=0.794533 t=10680
+dong tian 	冬天	c=1 d=0.937067 t=10680
+dong xi 	东西	c=2 d=1.24819 t=10680
+dong yang 	东洋	c=0 d=0.0970445 t=10680
+dou 	兜	c=1 d=0.722527 t=10680
+dou 	都	c=40 d=6.00398 t=10680
+dou bei 	都被	c=0 d=0.0965606 t=10680
+dou bei ni 	都被你	c=1 d=0.970445 t=10680
+dou gen 	都跟	c=1 d=0.831104 t=10680
+dou ke yi 	都可以	c=1 d=0.891366 t=10680
+dou kuai 	都快	c=1 d=0.687289 t=10680
+dou shi 	都是	c=15 d=4.59468 t=10680
+dou xing 	都行	c=1 d=0.771052 t=10680
+dou xu yao 	都需要	c=1 d=0.891366 t=10680
+dou yin 	抖音	c=2 d=1.23856 t=10680
+dou you 	都有	c=1 d=0.909373 t=10680
+dou zai 	都在	c=1 d=0.697676 t=10680
+du 	度	c=1 d=0.822835 t=10680
+du 	杜	c=0 d=0.0970445 t=10680
+du 	读	c=7 d=3.32138 t=10680
+du jia xu 	杜家旭	c=3 d=1.81925 t=10680
+du qu 	读取	c=2 d=1.07892 t=10680
+du shi 	都市	c=1 d=0.904837 t=10680
+du wan 	读完	c=2 d=1.76641 t=10680
+du xie 	读写	c=1 d=0.918513 t=10680
+duan 	段	c=5 d=2.34555 t=10680
+duan 	短	c=1 d=0.527293 t=10680
+duan geng 	断更	c=1 d=0.798516 t=10680
+duan ju 	短剧	c=1 d=0.970445 t=10680
+duan shi jian 	短时间	c=1 d=0.58567 t=10680
+duan xian 	短线	c=1 d=0.790571 t=10680
+dui 	对	c=10 d=2.79253 t=10680
+dui bi 	对比	c=1 d=0.798516 t=10680
+dui biao 	对标	c=1 d=0.591556 t=10680
+dui die 	堆叠	c=5 d=2.62141 t=10680
+dui huan 	兑换	c=1 d=0.909373 t=10680
+dui jie ren 	对接人	c=1 d=0.955998 t=10680
+dui le 	对了	c=2 d=1.09611 t=10680
+dui ma 	对吗	c=1 d=0.543351 t=10680
+dui xiang 	对象	c=4 d=1.95618 t=10680
+dui yi xia 	对一下	c=1 d=0.755783 t=10680
+dui ying dian 	对应点	c=1 d=0.873716 t=10680
+dui zhe 	对着	c=1 d=0.891366 t=10680
+dun 	蹲	c=1 d=0.97531 t=10680
+dun keng 	蹲坑	c=1 d=0.697676 t=10680
+duo 	多	c=22 d=5.22842 t=10680
+duo da 	多大	c=1 d=0.778801 t=10680
+duo ge 	多个	c=1 d=0.937067 t=10680
+duo kui 	多亏	c=1 d=0.818731 t=10680
+duo luo 	堕落	c=1 d=0.752015 t=10680
+duo shao 	多少	c=14 d=3.18883 t=10680
+duo shao qian 	多少钱	c=2 d=0.956567 t=10680
+duo tui shao bu 	多退少补	c=1 d=0.83527 t=10680
+duo xie 	多谢	c=3 d=2.03498 t=10680
+duo zhuan 	多赚	c=1 d=0.726149 t=10680
+e du 	额度	c=2 d=1.63593 t=10680
+e wai 	额外	c=2 d=1.54207 t=10680
+ei 	诶	c=1 d=0.774917 t=10680
+en 	恩	c=1 d=0.513365 t=10680
+en en 	嗯嗯	c=9 d=3.2386 t=10680
+en na 	嗯呐	c=3 d=1.59567 t=10680
+en ne 	嗯呢	c=1 d=0.737124 t=10680
+en zi 	恩子	c=5 d=2.05705 t=10680
+en zi ge 	恩子哥	c=1 d=0.860708 t=10680
+er 	二	c=1 d=0.456119 t=10680
+er 	儿	c=1 d=0.923116 t=10680
+er 	而	c=4 d=2.47176 t=10680
+er bu shi 	而不是	c=1 d=0.831104 t=10680
+er ji 	二级	c=1 d=0.970445 t=10680
+er qie 	而且	c=3 d=2.01687 t=10680
+er wo 	而我	c=1 d=0.68045 t=10680
+er xi 	儿媳	c=1 d=0.640824 t=10680
+er yi 	而已	c=1 d=0.576949 t=10680
+er zi 	儿子	c=1 d=0.571209 t=10680
+fa 	发	c=20 d=5.98209 t=10680
+fa 	法	c=3 d=1.86529 t=10680
+fa cai 	发财	c=3 d=2.65015 t=10680
+fa chu 	发出	c=2 d=1.56258 t=10680
+fa de 	发的	c=1 d=0.774917 t=10680
+fa gei ni 	发给你	c=1 d=0.70822 t=10680
+fa gei wo 	发给我	c=1 d=0.752015 t=10680
+fa le 	发了	c=2 d=1.42365 t=10680
+fa lun 	法轮	c=2 d=1.90484 t=10680
+fa sheng 	发生	c=1 d=0.900324 t=10680
+fa xian 	发现	c=6 d=2.78186 t=10680
+fa xiao xi 	发消息	c=1 d=0.937067 t=10680
+fa xing 	发型	c=1 d=0.790571 t=10680
+fa yi xia 	发一下	c=2 d=1.59061 t=10680
+fan 	饭	c=3 d=1.07565 t=10680
+fan hui 	返回	c=19 d=6.45214 t=10680
+fan kui 	反馈	c=10 d=4.32005 t=10680
+fan wei 	范围	c=1 d=0.514273 t=10680
+fan zheng 	反正	c=5 d=1.52343 t=10680
+fang 	仿	c=1 d=0.826959 t=10680
+fang 	放	c=9 d=4.20032 t=10680
+fang 	方	c=1 d=0.965606 t=10680
+fang an 	方案	c=16 d=4.86387 t=10680
+fang bian mian 	方便面	c=1 d=0.755783 t=10680
+fang fa 	方法	c=3 d=2.54558 t=10680
+fang jia 	房价	c=1 d=0.701174 t=10680
+fang jia 	放假	c=2 d=1.14436 t=10680
+fang jing dian 	防静电	c=1 d=0.941764 t=10680
+fang kai 	放开	c=1 d=0.839457 t=10680
+fang piao 	房票	c=1 d=0.818731 t=10680
+fang sheng 	仿生	c=7 d=3.37803 t=10680
+fang shi 	方式	c=7 d=2.75637 t=10680
+fang wen 	访问	c=3 d=2.27992 t=10680
+fang yun che 	防晕车	c=1 d=0.794533 t=10680
+fang zai 	放在	c=1 d=0.740818 t=10680
+fang zhe 	放着	c=1 d=0.786627 t=10680
+fang zi 	房子	c=1 d=0.537945 t=10680
+fei 	废	c=2 d=1.18383 t=10680
+fei 	费	c=1 d=0.588605 t=10680
+fei 	非	c=5 d=1.77304 t=10680
+fei 	飞	c=2 d=1.40936 t=10680
+fei an 	废案	c=2 d=1.27227 t=10680
+fei ge 	飞哥	c=8 d=2.97782 t=10680
+fei gei 	飞给	c=1 d=0.600495 t=10680
+fei lun 	飞轮	c=2 d=1.67661 t=10680
+fei shu 	飞书	c=1 d=0.806541 t=10680
+fen 	分	c=11 d=5.63231 t=10680
+fen bie 	分别	c=1 d=0.927743 t=10680
+fen xi 	分析	c=7 d=3.51171 t=10680
+fen zhi 	分支	c=13 d=7.2638 t=10680
+fen zhong 	分钟	c=5 d=2.20211 t=10680
+feng 	疯	c=1 d=0.631284 t=10680
+feng 	风	c=2 d=1.26582 t=10680
+feng kuang 	疯狂	c=1 d=0.771052 t=10680
+feng mian 	封面	c=1 d=0.913931 t=10680
+feng xian 	风险	c=3 d=2.05111 t=10680
+feng xian gao 	风险高	c=1 d=0.690734 t=10680
+feng yang 	凤扬	c=3 d=2.24254 t=10680
+fou 	否	c=2 d=1.4068 t=10680
+fou ze 	否则	c=2 d=1.57581 t=10680
+fu 	富	c=1 d=0.499075 t=10680
+fu he 	符合	c=1 d=0.565526 t=10680
+fu mu 	父母	c=2 d=1.77493 t=10680
+fu wu qi 	服务器	c=4 d=2.01974 t=10680
+fu xian 	复现	c=19 d=5.79455 t=10680
+fu za 	复杂	c=1 d=0.932393 t=10680
+fu ze 	负责	c=5 d=2.22304 t=10680
+fu zhi 	复制	c=3 d=2.3079 t=10680
+ga ma 	伽马	c=1 d=0.918513 t=10680
+gai 	改	c=13 d=3.8238 t=10680
+gai 	该	c=6 d=1.61828 t=10680
+gai da 	该打	c=1 d=0.860708 t=10680
+gai dong 	改动	c=3 d=1.49237 t=10680
+gai guo 	改过	c=1 d=0.955998 t=10680
+gai qing 	该请	c=1 d=0.771052 t=10680
+gai wei 	改为	c=4 d=2.00833 t=10680
+gai yi xia 	改一下	c=1 d=0.955998 t=10680
+gan 	干	c=2 d=1.14921 t=10680
+gan bu dong 	干不动	c=4 d=3.04955 t=10680
+gan bu shang 	赶不上	c=1 d=0.886921 t=10680
+gan chi 	干吃	c=1 d=0.814647 t=10680
+gan huo 	干活	c=1 d=0.970445 t=10680
+gan jing 	干净	c=1 d=0.941764 t=10680
+gan jue 	感觉	c=18 d=5.37886 t=10680
+gang 	刚	c=10 d=4.04521 t=10680
+gang bi 	港币	c=1 d=0.904837 t=10680
+gang cai 	刚才	c=8 d=2.43073 t=10680
+gang gan 	杠杆	c=1 d=0.715338 t=10680
+gang gen 	刚跟	c=1 d=0.70822 t=10680
+gang gu 	港股	c=2 d=1.08534 t=10680
+gang hao 	刚好	c=7 d=2.25535 t=10680
+gang zhuan 	刚转	c=1 d=0.946486 t=10680
+gang zuo dao 	刚做到	c=1 d=0.718923 t=10680
+gao 	搞	c=2 d=1.18626 t=10680
+gao 	稿	c=1 d=0.571209 t=10680
+gao 	高	c=4 d=2.18269 t=10680
+gao bu ding 	搞不定	c=1 d=0.869358 t=10680
+gao ji 	高级	c=1 d=0.923116 t=10680
+gao jin 	高金	c=1 d=0.932393 t=10680
+gao zhi 	告知	c=1 d=0.882496 t=10680
+ge 	个	c=32 d=7.05228 t=10680
+ge 	哥	c=8 d=3.03536 t=10680
+ge ji 	隔几	c=0 d=0.0955998 t=10680
+ge ji ge 	隔几个	c=1 d=0.960789 t=10680
+ge lei e mu 	格雷厄姆	c=1 d=0.891366 t=10680
+ge men 	哥们	c=1 d=0.97531 t=10680
+ge ren 	个人	c=5 d=3.28971 t=10680
+ge shi 	格式	c=1 d=0.960789 t=10680
+ge shui 	个税	c=2 d=1.21769 t=10680
+ge wei 	各位	c=1 d=0.527293 t=10680
+ge zhan 	各占	c=1 d=0.748264 t=10680
+ge zi 	各自	c=2 d=1.19802 t=10680
+gei 	给	c=10 d=3.48567 t=10680
+gei chu 	给出	c=3 d=2.21253 t=10680
+gei ge 	给个	c=1 d=0.918513 t=10680
+gei ni 	给你	c=4 d=1.97678 t=10680
+gei ta 	给他	c=2 d=1.44155 t=10680
+gei wo 	给我	c=6 d=2.90801 t=10680
+gen 	跟	c=30 d=5.66405 t=10680
+gen ju 	根据	c=2 d=1.42663 t=10680
+gen ta men 	跟他们	c=1 d=0.511709 t=10680
+gen wo 	跟我	c=4 d=2.44549 t=10680
+gen yin 	根音	c=1 d=0.66034 t=10680
+gen yin 	跟因	c=3 d=0.769714 t=10680
+gen zong 	跟踪	c=2 d=0.981591 t=10680
+geng 	更	c=1 d=0.634448 t=10680
+geng duo 	更多	c=1 d=0.625002 t=10680
+geng gai 	更改	c=3 d=1.92759 t=10680
+geng gao 	更高	c=1 d=0.571209 t=10680
+geng hao 	更好	c=2 d=1.04294 t=10680
+geng huan 	更换	c=1 d=0.786627 t=10680
+geng xin 	更新	c=5 d=2.28424 t=10680
+geng xin wan 	更新完	c=1 d=0.970445 t=10680
+gong cheng 	工程	c=1 d=0.697676 t=10680
+gong cheng shi 	工程师	c=1 d=0.860708 t=10680
+gong ji jin 	公积金	c=2 d=1.5548 t=10680
+gong jian 	攻坚	c=1 d=0.941764 t=10680
+gong jian hui 	攻坚会	c=1 d=0.574072 t=10680
+gong ju 	工具	c=4 d=2.30672 t=10680
+gong li 	公里	c=1 d=0.852144 t=10680
+gong neng 	功能	c=3 d=1.64194 t=10680
+gong shi 	工时	c=3 d=2.17532 t=10680
+gong si 	公司	c=13 d=4.48657 t=10680
+gong wei 	工位	c=3 d=1.74319 t=10680
+gong xiang 	共享	c=1 d=0.740818 t=10680
+gong zi 	工资	c=4 d=1.7228 t=10680
+gong zi ka 	工资卡	c=2 d=1.06 t=10680
+gong zuo 	工作	c=6 d=2.90356 t=10680
+gou 	够	c=1 d=0.814647 t=10680
+gou jian 	构建	c=2 d=0.899107 t=10680
+gou tong 	沟通	c=11 d=4.06129 t=10680
+gu 	股	c=8 d=4.2656 t=10680
+gu 	雇	c=0 d=0.067368 t=10680
+gu ji 	估计	c=9 d=3.14455 t=10680
+gu liang ge ren 	雇两个人	c=1 d=0.677057 t=10680
+gu piao 	股票	c=1 d=0.371576 t=10680
+gu shen 	股神	c=1 d=0.429558 t=10680
+gu shi 	股市	c=1 d=0.900324 t=10680
+gua 	挂	c=1 d=0.865022 t=10680
+guai guai 	乖乖	c=1 d=0.810584 t=10680
+guai guai 	怪怪	c=1 d=0.814647 t=10680
+guan 	关	c=2 d=1.45784 t=10680
+guan bi 	关闭	c=6 d=4.86743 t=10680
+guan dan 	关单	c=1 d=0.814647 t=10680
+guan dan 	掼蛋	c=1 d=0.810584 t=10680
+guan ji 	关机	c=1 d=0.891366 t=10680
+guan jia 	管家	c=1 d=0.909373 t=10680
+guan jian zi 	关键字	c=1 d=0.955998 t=10680
+guan li 	管理	c=3 d=1.83006 t=10680
+guan lian 	关联	c=1 d=0.886921 t=10680
+guan xi 	关系	c=2 d=1.51487 t=10680
+guan yu 	关于	c=1 d=0.733447 t=10680
+guan zhu 	关注	c=2 d=1.17524 t=10680
+guang bo 	广播	c=3 d=2.2068 t=10680
+guang gao 	广告	c=1 d=0.843665 t=10680
+guang xiao 	光效	c=1 d=0.806541 t=10680
+gui ze 	规则	c=2 d=1.45503 t=10680
+guo 	过	c=9 d=1.85544 t=10680
+guo bu liao 	过不了	c=1 d=0.941764 t=10680
+guo cao 	过草	c=1 d=0.913931 t=10680
+guo cheng 	过程	c=2 d=1.12477 t=10680
+guo di 	过低	c=1 d=0.865022 t=10680
+guo fen 	过分	c=1 d=0.71177 t=10680
+guo ji 	国际	c=1 d=0.886921 t=10680
+guo ji ban 	国际版	c=2 d=1.61019 t=10680
+guo lv 	过滤	c=1 d=0.737124 t=10680
+guo nei 	国内	c=2 d=1.42266 t=10680
+guo nian 	过年	c=6 d=3.38413 t=10680
+guo qu 	过去	c=1 d=0.882496 t=10680
+guo ran 	果然	c=1 d=0.891366 t=10680
+ha 	哈	c=12 d=3.43152 t=10680
+ha ji mi 	哈基米	c=1 d=0.690734 t=10680
+hai 	害	c=3 d=1.39103 t=10680
+hai 	还	c=44 d=6.05465 t=10680
+hai bu 	还不	c=0 d=0.067032 t=10680
+hai bu cuo 	还不错	c=1 d=0.67032 t=10680
+hai bu fa 	还不发	c=1 d=0.67368 t=10680
+hai bu gou 	还不够	c=1 d=0.68045 t=10680
+hai bu lai 	还不来	c=1 d=0.909373 t=10680
+hai bu ru 	还不如	c=1 d=0.606531 t=10680
+hai de 	还得	c=2 d=1.35754 t=10680
+hai dei 	还得	c=1 d=0.606531 t=10680
+hai hao 	还好	c=6 d=1.97256 t=10680
+hai ke yi 	还可以	c=1 d=0.790571 t=10680
+hai mei 	还没	c=7 d=2.57152 t=10680
+hai mei kan chu lai 	还没看出来	c=1 d=0.657047 t=10680
+hai mian 	海绵	c=1 d=0.718923 t=10680
+hai neng 	还能	c=11 d=3.52032 t=10680
+hai pa 	害怕	c=1 d=0.755783 t=10680
+hai qian 	还欠	c=1 d=0.311923 t=10680
+hai shi 	还是	c=33 d=7.26793 t=10680
+hai shi dei 	还是得	c=1 d=0.818731 t=10680
+hai shi wo 	还是我	c=1 d=0.95123 t=10680
+hai shuo 	还说	c=1 d=0.847893 t=10680
+hai ting 	还挺	c=0 d=0.0726149 t=10680
+hai ting hao he 	还挺好喝	c=1 d=0.729789 t=10680
+hai xiang 	还想	c=3 d=1.44691 t=10680
+hai xu yao 	还需要	c=7 d=3.13822 t=10680
+hai yao 	还要	c=4 d=1.84989 t=10680
+hai you 	还有	c=20 d=4.42111 t=10680
+hai zai 	还在	c=5 d=2.63918 t=10680
+hai zhen you 	还真有	c=1 d=0.965606 t=10680
+hao 	号	c=2 d=1.52815 t=10680
+hao 	好	c=24 d=5.04206 t=10680
+hao 	薅	c=1 d=0.909373 t=10680
+hao cao 	薅草	c=3 d=2.80785 t=10680
+hao chi 	好吃	c=4 d=2.12002 t=10680
+hao dai 	好歹	c=2 d=1.53034 t=10680
+hao de 	好的	c=1 d=0.895834 t=10680
+hao dian 	好点	c=1 d=0.97531 t=10680
+hao gui mi 	好闺蜜	c=1 d=0.677057 t=10680
+hao hao 	好好	c=2 d=1.21404 t=10680
+hao he 	好喝	c=0 d=0.0726149 t=10680
+hao ji ci 	好几次	c=1 d=0.621885 t=10680
+hao ji dun 	好几顿	c=1 d=0.331211 t=10680
+hao ji ge 	好几个	c=1 d=0.683861 t=10680
+hao ji tiao 	好几条	c=1 d=0.790571 t=10680
+hao jiu 	好久	c=2 d=1.61968 t=10680
+hao la 	好啦	c=1 d=0.786627 t=10680
+hao lei 	好累	c=2 d=1.25634 t=10680
+hao man 	好慢	c=1 d=0.97531 t=10680
+hao shi 	好事	c=2 d=1.45823 t=10680
+hao shi 	耗时	c=1 d=0.782705 t=10680
+hao xiang 	好像	c=8 d=2.66688 t=10680
+he 	合	c=1 d=0.726149 t=10680
+he 	和	c=15 d=4.28652 t=10680
+he 	喝	c=11 d=4.51214 t=10680
+he dian 	喝点	c=1 d=0.737124 t=10680
+he jia yue 	何佳悦	c=1 d=0.657047 t=10680
+he ma 	盒马	c=1 d=0.955998 t=10680
+he mai 	合买	c=1 d=0.95123 t=10680
+he ru 	何如	c=1 d=0.625002 t=10680
+he ru 	合入	c=16 d=4.64321 t=10680
+he shen 	合身	c=1 d=0.95123 t=10680
+he shi 	合适	c=3 d=1.57329 t=10680
+he xin 	核心	c=1 d=0.786627 t=10680
+he yi bei 	喝一杯	c=1 d=0.965606 t=10680
+he yi xia 	合一下	c=1 d=0.522045 t=10680
+he zuo 	合作	c=1 d=0.722527 t=10680
+hei hei 	嘿嘿	c=2 d=1.65196 t=10680
+hei tang 	黑糖	c=2 d=1.39227 t=10680
+hei tian e 	黑天鹅	c=1 d=0.559898 t=10680
+hen 	很	c=6 d=2.80817 t=10680
+hen 	狠	c=1 d=0.839457 t=10680
+hen bu miao 	很不妙	c=1 d=0.771052 t=10680
+hen di 	很低	c=1 d=0.810584 t=10680
+hen duo 	很多	c=4 d=1.3187 t=10680
+hen gui 	很贵	c=1 d=0.955998 t=10680
+hen lei 	很累	c=2 d=1.63377 t=10680
+hen man 	很慢	c=3 d=2.14144 t=10680
+hen you 	很有	c=1 d=0.847893 t=10680
+hong 	哄	c=1 d=0.551562 t=10680
+hong 	红	c=1 d=0.955998 t=10680
+hong niu 	红牛	c=1 d=0.918513 t=10680
+hong zha 	轰炸	c=1 d=0.786627 t=10680
+hou 	后	c=25 d=5.89261 t=10680
+hou lai 	后来	c=2 d=0.951104 t=10680
+hou mian 	后面	c=13 d=4.57846 t=10680
+hou qin 	后勤	c=1 d=0.798516 t=10680
+hou tong 	喉痛	c=1 d=0.923116 t=10680
+hou xu 	后续	c=6 d=1.54466 t=10680
+hou xuan ci 	候选词	c=1 d=0.95123 t=10680
+hou xuan kuang 	候选框	c=1 d=0.831104 t=10680
+hu lian 	互联	c=1 d=0.794533 t=10680
+hu lve 	忽略	c=1 d=0.913931 t=10680
+hua 	化	c=3 d=1.73476 t=10680
+hua 	花	c=2 d=0.558926 t=10680
+hua 	话	c=12 d=3.50227 t=10680
+hua dong 	滑动	c=1 d=0.95123 t=10680
+hua sheng 	华盛	c=2 d=1.25945 t=10680
+hua shu 	话术	c=1 d=0.878096 t=10680
+hua shuo 	话说	c=1 d=0.554327 t=10680
+huai wang 	淮王	c=2 d=1.75674 t=10680
+huai yi 	怀疑	c=1 d=0.806541 t=10680
+huan 	换	c=3 d=1.00089 t=10680
+huan 	还	c=1 d=0.351692 t=10680
+huan cun 	缓存	c=2 d=1.75641 t=10680
+huan dao 	换到	c=1 d=0.839457 t=10680
+huan gei 	还给	c=2 d=1.90728 t=10680
+huan gei ni 	还给你	c=1 d=0.941764 t=10680
+huan huan 	换换	c=1 d=0.873716 t=10680
+huan ji 	换机	c=5 d=2.16101 t=10680
+huan jing 	环境	c=1 d=0.97531 t=10680
+huan xing 	唤醒	c=1 d=0.891366 t=10680
+huan yi ci 	换一次	c=0 d=0.0600495 t=10680
+huang jia yi zhan 	皇家驿站	c=1 d=0.814647 t=10680
+hui 	会	c=52 d=5.92822 t=10680
+hui 	回	c=3 d=1.81956 t=10680
+hui 	灰	c=1 d=0.810584 t=10680
+hui bao 	汇报	c=1 d=0.609571 t=10680
+hui ben 	回本	c=1 d=0.97531 t=10680
+hui bu hui 	会不会	c=2 d=1.14384 t=10680
+hui da 	回答	c=3 d=1.54206 t=10680
+hui dao 	回到	c=3 d=1.68459 t=10680
+hui diao 	回调	c=2 d=1.62523 t=10680
+hui fu 	回复	c=3 d=2.36101 t=10680
+hui fu 	恢复	c=1 d=0.965606 t=10680
+hui hou 	会后	c=1 d=0.873716 t=10680
+hui jia 	回家	c=1 d=0.722527 t=10680
+hui lai 	回来	c=2 d=1.04809 t=10680
+hui luo 	回落	c=2 d=1.58549 t=10680
+hui shang 	会上	c=2 d=1.46233 t=10680
+hui shi 	回事	c=1 d=0.941764 t=10680
+hui tan 	回弹	c=2 d=1.36841 t=10680
+hui tui 	回退	c=1 d=0.771052 t=10680
+hui ying 	回应	c=1 d=0.744531 t=10680
+hui you 	会有	c=2 d=0.987609 t=10680
+hui yuan 	会员	c=2 d=1.68836 t=10680
+hui yuan ka 	会员卡	c=2 d=1.33936 t=10680
+hui zai 	会在	c=1 d=0.83527 t=10680
+hun da 	混搭	c=1 d=0.955998 t=10680
+hun he 	混合	c=1 d=0.687289 t=10680
+hun hun chen chen 	昏昏沉沉	c=1 d=0.97531 t=10680
+hun li 	婚礼	c=4 d=1.21213 t=10680
+hun li tang 	婚礼堂	c=1 d=0.366045 t=10680
+hun sha zhao 	婚纱照	c=1 d=0.307279 t=10680
+huo 	或	c=5 d=2.56305 t=10680
+huo guo 	火锅	c=1 d=0.774917 t=10680
+huo qu 	获取	c=4 d=2.41536 t=10680
+huo zhe 	或者	c=5 d=2.56356 t=10680
+ji 	击	c=1 d=0.873716 t=10680
+ji 	即	c=3 d=2.08135 t=10680
+ji 	及	c=2 d=1.33188 t=10680
+ji 	急	c=1 d=0.38868 t=10680
+ji 	级	c=2 d=1.06962 t=10680
+ji 	记	c=1 d=0.839457 t=10680
+ji bao 	鸡堡	c=1 d=0.740818 t=10680
+ji ben 	基本	c=1 d=0.576949 t=10680
+ji bu zhu 	记不住	c=1 d=0.358796 t=10680
+ji cheng 	继承	c=3 d=1.7529 t=10680
+ji dao 	寄到	c=1 d=0.843665 t=10680
+ji de 	记得	c=4 d=1.69601 t=10680
+ji dian 	几点	c=1 d=0.786627 t=10680
+ji fen zhong 	几分钟	c=1 d=0.759572 t=10680
+ji ge 	几个	c=3 d=1.42694 t=10680
+ji hua 	计划	c=1 d=0.65377 t=10680
+ji hui 	机会	c=1 d=0.628135 t=10680
+ji jin 	激进	c=1 d=0.600495 t=10680
+ji ke 	即可	c=2 d=1.3898 t=10680
+ji lu 	记录	c=4 d=2.3159 t=10680
+ji mao 	鸡毛	c=1 d=0.50409 t=10680
+ji shi 	及时	c=2 d=1.4873 t=10680
+ji shu 	技术	c=1 d=0.946486 t=10680
+ji su 	急速	c=1 d=0.886921 t=10680
+ji suan 	计算	c=2 d=1.52769 t=10680
+ji tian 	几天	c=5 d=1.90642 t=10680
+ji xing 	机型	c=5 d=1.98271 t=10680
+ji xu 	继续	c=4 d=2.2357 t=10680
+ji yi 	记忆	c=2 d=1.06399 t=10680
+jia 	价	c=1 d=0.412714 t=10680
+jia 	假	c=1 d=0.68045 t=10680
+jia 	加	c=25 d=5.78065 t=10680
+jia 	家	c=2 d=0.740071 t=10680
+jia ban 	加班	c=6 d=3.20089 t=10680
+jia cang 	加仓	c=1 d=0.38868 t=10680
+jia fen 	加分	c=1 d=0.810584 t=10680
+jia ge 	加个	c=1 d=0.970445 t=10680
+jia meng 	加盟	c=1 d=0.666976 t=10680
+jia ru 	加入	c=1 d=0.83527 t=10680
+jia shang 	加上	c=3 d=1.32275 t=10680
+jia xia 	加下	c=9 d=4.70135 t=10680
+jia xu 	家旭	c=4 d=2.47509 t=10680
+jia zhi 	价值	c=1 d=0.810584 t=10680
+jia zhi tou zi 	价值投资	c=1 d=0.843665 t=10680
+jia zhuang 	嫁妆	c=1 d=0.606531 t=10680
+jian 	见	c=2 d=0.970445 t=10680
+jian 	键	c=1 d=0.878096 t=10680
+jian dan 	简单	c=5 d=2.26968 t=10680
+jian ge 	间隔	c=1 d=0.806541 t=10680
+jian hao 	建好	c=1 d=0.744531 t=10680
+jian mian 	见面	c=1 d=0.927743 t=10680
+jian mu 	键目	c=1 d=0.923116 t=10680
+jian qie ban 	剪切板	c=1 d=0.913931 t=10680
+jian shi 	简史	c=1 d=0.909373 t=10680
+jian suo 	检索	c=1 d=0.909373 t=10680
+jian ta 	尖塔	c=1 d=0.802519 t=10680
+jian ting 	监听	c=4 d=2.0747 t=10680
+jian yi 	建议	c=6 d=1.97548 t=10680
+jian yu 	鉴于	c=1 d=0.666976 t=10680
+jiang 	姜	c=1 d=0.888841 t=10680
+jiang 	将	c=9 d=3.8321 t=10680
+jiang 	蒋	c=1 d=0.865022 t=10680
+jiang 	酱	c=1 d=0.790571 t=10680
+jiang dao 	降到	c=3 d=2.59029 t=10680
+jiang dong yang 	姜东洋	c=4 d=3.60079 t=10680
+jiang guo 	降过	c=1 d=0.882496 t=10680
+jiang ji 	降级	c=5 d=3.31221 t=10680
+jiang jiu 	讲究	c=1 d=0.970445 t=10680
+jiao 	叫	c=2 d=1.04751 t=10680
+jiao 	教	c=1 d=0.755783 t=10680
+jiao ben 	脚本	c=2 d=1.5855 t=10680
+jiao bian 	狡辩	c=1 d=0.856415 t=10680
+jiao da 	较大	c=1 d=0.516851 t=10680
+jiao dian 	焦点	c=10 d=3.98602 t=10680
+jiao dian tong zhi 	焦点通知	c=2 d=1.22002 t=10680
+jiao dian tu 	焦点图	c=1 d=0.865022 t=10680
+jiao fu 	交付	c=2 d=1.71586 t=10680
+jiao hu 	交互	c=9 d=4.07362 t=10680
+jiao sha 	叫啥	c=1 d=0.826959 t=10680
+jiao shen 	较深	c=1 d=0.694196 t=10680
+jiao wo 	叫我	c=1 d=0.839457 t=10680
+jiao xiao 	较小	c=5 d=2.64598 t=10680
+jie 	借	c=4 d=2.06181 t=10680
+jie 	姐	c=4 d=1.71737 t=10680
+jie 	接	c=1 d=0.467666 t=10680
+jie 	结	c=1 d=0.511709 t=10680
+jie 	解	c=4 d=1.58561 t=10680
+jie dian 	借点	c=1 d=0.582749 t=10680
+jie dian 	节点	c=1 d=0.798516 t=10680
+jie gei ni 	借给你	c=1 d=0.543351 t=10680
+jie guo 	结果	c=3 d=1.7284 t=10680
+jie he 	结合	c=1 d=0.904837 t=10680
+jie hun 	结婚	c=8 d=2.15371 t=10680
+jie jue 	解决	c=1 d=0.715338 t=10680
+jie kou 	接口	c=7 d=3.36626 t=10680
+jie lun 	结论	c=3 d=1.22038 t=10680
+jie mei 	姐妹	c=1 d=0.822835 t=10680
+jie ou 	解耦	c=6 d=3.00683 t=10680
+jie ru 	接入	c=4 d=2.72412 t=10680
+jie shao 	介绍	c=3 d=1.65672 t=10680
+jie shi 	解释	c=8 d=5.3308 t=10680
+jie shou 	接受	c=1 d=0.767206 t=10680
+jie shu 	结束	c=1 d=0.535262 t=10680
+jie suan 	结算	c=1 d=0.591556 t=10680
+jie suo 	解锁	c=1 d=0.895834 t=10680
+jie tu 	截图	c=2 d=1.71591 t=10680
+jie wan 	借完	c=1 d=0.657047 t=10680
+jie wan hun 	结完婚	c=1 d=0.551562 t=10680
+jie wo 	借我	c=2 d=0.866774 t=10680
+jie ya 	解压	c=1 d=0.97531 t=10680
+jie ya suo 	解压缩	c=1 d=0.970445 t=10680
+jie yong 	借用	c=2 d=1.57149 t=10680
+jie zhi 	截止	c=2 d=1.55274 t=10680
+jin 	仅	c=1 d=0.663651 t=10680
+jin 	进	c=4 d=1.12948 t=10680
+jin bu 	进步	c=1 d=0.818731 t=10680
+jin cheng 	进程	c=2 d=1.6581 t=10680
+jin du 	进度	c=1 d=0.786627 t=10680
+jin ge 	金哥	c=1 d=0.918513 t=10680
+jin ji 	紧急	c=1 d=0.960789 t=10680
+jin jia 	金价	c=1 d=0.32628 t=10680
+jin ke neng 	尽可能	c=1 d=0.960789 t=10680
+jin lai 	进来	c=2 d=1.56398 t=10680
+jin li 	锦鲤	c=2 d=1.84736 t=10680
+jin nian 	今年	c=8 d=3.63383 t=10680
+jin qu 	进去	c=2 d=1.36131 t=10680
+jin qu 	进取	c=2 d=1.7871 t=10680
+jin qun 	进群	c=1 d=0.95123 t=10680
+jin ri 	今日	c=1 d=0.467666 t=10680
+jin ru 	进入	c=4 d=1.4401 t=10680
+jin tian 	今天	c=24 d=4.08963 t=10680
+jin tou 	尽头	c=1 d=0.71177 t=10680
+jin wan 	今晚	c=2 d=0.996025 t=10680
+jin xing 	进行	c=1 d=0.839457 t=10680
+jin yong 	禁用	c=2 d=1.39762 t=10680
+jin zhan 	进展	c=1 d=0.97531 t=10680
+jing chang 	经常	c=1 d=0.960789 t=10680
+jing dian 	经典	c=20 d=5.11731 t=10680
+jing li 	精力	c=2 d=1.13537 t=10680
+jing li 	经历	c=1 d=0.960789 t=10680
+jing li 	经理	c=2 d=1.25935 t=10680
+jing ran 	竟然	c=1 d=0.771052 t=10680
+jing se 	景色	c=1 d=0.524662 t=10680
+jing tong 	精通	c=1 d=0.58567 t=10680
+jing yan 	经验	c=1 d=0.582749 t=10680
+jiu 	久	c=3 d=1.37749 t=10680
+jiu 	就	c=53 d=6.38342 t=10680
+jiu bei 	就被	c=1 d=0.532591 t=10680
+jiu bu zhi dao 	就不知道	c=1 d=0.687289 t=10680
+jiu dang 	就当	c=1 d=0.774917 t=10680
+jiu dian 	酒店	c=4 d=1.79247 t=10680
+jiu huan yi ci 	就换一次	c=1 d=0.603505 t=10680
+jiu ke yi 	就可以	c=2 d=0.986107 t=10680
+jiu mei 	就没	c=0 d=0.0806541 t=10680
+jiu mei zai qun li 	就没在群里	c=1 d=0.810584 t=10680
+jiu qing 	就请	c=1 d=0.774917 t=10680
+jiu shi 	就是	c=19 d=4.47505 t=10680
+jiu shi jiu shi 	就是就是	c=2 d=1.67056 t=10680
+jiu xiang 	就像	c=1 d=0.715338 t=10680
+jiu xing 	就行	c=5 d=1.65685 t=10680
+jiu xuan 	就选	c=1 d=0.831104 t=10680
+jiu zhe 	就这	c=1 d=0.822835 t=10680
+jiu zhi 	救治	c=2 d=1.04712 t=10680
+jiu zhi dao 	就知道	c=4 d=2.2498 t=10680
+ju ban 	举办	c=1 d=0.344728 t=10680
+ju ti 	具体	c=7 d=2.64765 t=10680
+jue bu 	绝不	c=1 d=0.748264 t=10680
+jue de 	觉得	c=1 d=0.895834 t=10680
+jue ding 	决定	c=2 d=1.55296 t=10680
+jun ge 	军哥	c=2 d=1.70565 t=10680
+ka 	卡	c=7 d=2.96326 t=10680
+ka fei 	咖啡	c=3 d=2.29646 t=10680
+ka la mi 	卡拉米	c=1 d=0.806541 t=10680
+kai 	开	c=8 d=3.53144 t=10680
+kai fa 	开发	c=12 d=4.25329 t=10680
+kai ge 	开个	c=2 d=1.74349 t=10680
+kai guan 	开关	c=2 d=1.36364 t=10680
+kai hui 	开会	c=3 d=2.22327 t=10680
+kai ji 	开机	c=1 d=0.927743 t=10680
+kai shi 	开始	c=5 d=2.62114 t=10680
+kai wan 	开完	c=1 d=0.970445 t=10680
+kai xia 	开下	c=1 d=0.860708 t=10680
+kan 	看	c=46 d=7.82222 t=10680
+kan ban 	看板	c=1 d=0.941764 t=10680
+kan bu chu lai 	看不出来	c=2 d=1.70426 t=10680
+kan chu 	看出	c=1 d=0.831104 t=10680
+kan chu lai 	看出来	c=0 d=0.065377 t=10680
+kan dao 	看到	c=4 d=2.93282 t=10680
+kan die 	看跌	c=1 d=0.618783 t=10680
+kan hai zi 	看孩子	c=1 d=0.951229 t=10680
+kan kan 	看看	c=4 d=1.99663 t=10680
+kan ni 	看你	c=1 d=0.726149 t=10680
+kan qi 	看其	c=1 d=0.694196 t=10680
+kan qi lai 	看起来	c=7 d=4.4766 t=10680
+kan shu 	看书	c=3 d=1.8221 t=10680
+kan ta 	看他	c=1 d=0.744531 t=10680
+kan xia 	看下	c=27 d=5.50259 t=10680
+kan yang zi 	看样子	c=1 d=0.955998 t=10680
+kan zhe 	看着	c=8 d=3.24148 t=10680
+kao lv 	考虑	c=6 d=1.85094 t=10680
+ke 	可	c=22 d=9.35755 t=10680
+ke fou 	可否	c=2 d=1.17922 t=10680
+ke hu 	客户	c=1 d=0.759572 t=10680
+ke hui fu 	可恢复	c=1 d=0.932393 t=10680
+ke ji 	科技	c=1 d=0.637628 t=10680
+ke ji yuan 	科技园	c=2 d=1.562 t=10680
+ke le 	可乐	c=3 d=1.6222 t=10680
+ke neng 	可能	c=13 d=3.57401 t=10680
+ke xi 	可惜	c=4 d=1.66686 t=10680
+ke xia la 	可下拉	c=1 d=0.831104 t=10680
+ke xing 	可行	c=2 d=1.25908 t=10680
+ke yi 	可以	c=73 d=7.87193 t=10680
+ken ding 	肯定	c=5 d=1.86488 t=10680
+kong 	孔	c=1 d=0.748264 t=10680
+kong 	空	c=2 d=1.47839 t=10680
+kong bai 	空白	c=1 d=0.909373 t=10680
+kong jian 	控件	c=5 d=2.81585 t=10680
+kong jun 	空军	c=1 d=0.810584 t=10680
+kong qi 	空气	c=1 d=0.826959 t=10680
+kong zhi 	控制	c=37 d=9.42492 t=10680
+kong zhi zhong xin 	控制中心	c=1 d=0.882496 t=10680
+kou 	扣	c=1 d=0.782705 t=10680
+kou chou 	口臭	c=4 d=3.31524 t=10680
+kou qian 	扣钱	c=1 d=0.826959 t=10680
+kou shui 	扣税	c=1 d=0.965606 t=10680
+kua 	跨	c=1 d=0.814647 t=10680
+kua da 	夸大	c=1 d=0.615698 t=10680
+kua jin cheng 	跨进程	c=1 d=0.579842 t=10680
+kua ping tai 	跨平台	c=1 d=0.869358 t=10680
+kuai 	块	c=4 d=2.99513 t=10680
+kuai 	快	c=7 d=2.86396 t=10680
+kuai chong 	快充	c=1 d=0.818731 t=10680
+kuai di 	快递	c=6 d=4.75394 t=10680
+kuai di yuan 	快递员	c=1 d=0.918513 t=10680
+kuai dian 	快点	c=1 d=0.923116 t=10680
+kuai gei ta 	快给他	c=1 d=0.70822 t=10680
+kuai qian 	块钱	c=5 d=2.9162 t=10680
+kuan 	款	c=1 d=0.5975 t=10680
+kuan wei 	宽慰	c=1 d=0.965606 t=10680
+kuang 	框	c=1 d=0.831104 t=10680
+kui 	亏	c=10 d=3.85032 t=10680
+kun 	困	c=1 d=0.594521 t=10680
+kuo yi 	阔以	c=1 d=0.752015 t=10680
+la 	啦	c=4 d=2.23788 t=10680
+la 	拉	c=9 d=3.38191 t=10680
+la ji 	垃圾	c=6 d=2.69259 t=10680
+la jiao 	辣椒	c=1 d=0.786627 t=10680
+la ni 	拉你	c=2 d=1.26397 t=10680
+la qi 	拉起	c=3 d=2.47698 t=10680
+la zhe 	拉着	c=1 d=0.609571 t=10680
+lai 	来	c=28 d=3.8763 t=10680
+lai bu ji 	来不及	c=1 d=0.767206 t=10680
+lai de ji 	来得及	c=1 d=0.516851 t=10680
+lai dian 	来电	c=2 d=1.1743 t=10680
+lai gou 	莱狗	c=1 d=0.574072 t=10680
+lai hui 	来回	c=1 d=0.918513 t=10680
+lai la 	来啦	c=1 d=0.97531 t=10680
+lai na 	来拿	c=1 d=0.937067 t=10680
+lai qian 	来钱	c=1 d=0.621885 t=10680
+lai zhe 	来着	c=1 d=0.918513 t=10680
+lai zuo 	来做	c=1 d=0.97531 t=10680
+lan 	栏	c=13 d=5.94156 t=10680
+lan de 	懒得	c=0 d=0.0715338 t=10680
+lan de jie 	懒得解	c=1 d=0.718923 t=10680
+lan jie 	拦截	c=1 d=0.704688 t=10680
+lan piao 	烂票	c=1 d=0.786627 t=10680
+lan ya 	蓝牙	c=2 d=1.90728 t=10680
+lang chao 	浪潮	c=1 d=0.737124 t=10680
+lao 	佬	c=1 d=0.814647 t=10680
+lao 	老	c=1 d=0.802519 t=10680
+lao ban 	老板	c=17 d=3.66207 t=10680
+lao ban men 	老板们	c=1 d=0.856415 t=10680
+lao jia 	老家	c=4 d=2.1406 t=10680
+lao lao 	姥姥	c=1 d=0.527293 t=10680
+lao lao shi shi 	老老实实	c=1 d=0.690734 t=10680
+lao po 	老婆	c=2 d=0.815063 t=10680
+lao shi 	老师	c=2 d=1.56578 t=10680
+le 	了	c=330 d=22.1735 t=10680
+lei 	类	c=16 d=4.78228 t=10680
+lei 	雷	c=1 d=0.715338 t=10680
+lei she 	雷蛇	c=1 d=0.97531 t=10680
+lei si 	类似	c=5 d=2.26419 t=10680
+lei si lei huo 	累死累活	c=1 d=0.744531 t=10680
+leng 	冷	c=1 d=0.701174 t=10680
+leng si 	冷死	c=1 d=0.923116 t=10680
+li 	里	c=6 d=2.56871 t=10680
+li cai 	理财	c=3 d=1.89228 t=10680
+li jie 	理解	c=1 d=0.778801 t=10680
+li ke 	立刻	c=1 d=0.852144 t=10680
+li mian 	里面	c=17 d=4.32178 t=10680
+li ming yi 	李明熠	c=3 d=2.39806 t=10680
+li pin 	礼品	c=1 d=0.886921 t=10680
+li pin ka 	礼品卡	c=1 d=0.882496 t=10680
+li tang 	礼堂	c=3 d=1.09853 t=10680
+li xi 	利息	c=3 d=2.47695 t=10680
+li you 	理由	c=1 d=0.882496 t=10680
+li zhi 	理智	c=1 d=0.826959 t=10680
+li zhi 	荔枝	c=1 d=0.831104 t=10680
+lia 	俩	c=2 d=1.3211 t=10680
+lian 	脸	c=1 d=0.941764 t=10680
+lian dai 	连带	c=1 d=0.509157 t=10680
+lian jie 	连接	c=3 d=2.22682 t=10680
+lian jie 	链接	c=1 d=0.873716 t=10680
+lian xi 	练习	c=1 d=0.83527 t=10680
+lian xi 	联系	c=2 d=1.71586 t=10680
+lian xi bu shang 	联系不上	c=1 d=0.927743 t=10680
+lian xi ren 	联系人	c=1 d=0.965606 t=10680
+lian xi yong hu 	联系用户	c=1 d=0.95123 t=10680
+liang 	两	c=1 d=0.540641 t=10680
+liang 	凉	c=3 d=1.89323 t=10680
+liang 	量	c=1 d=0.802519 t=10680
+liang bei 	两杯	c=1 d=0.677057 t=10680
+liang bi 	两笔	c=1 d=0.955998 t=10680
+liang bu 	两步	c=1 d=0.71177 t=10680
+liang ci 	两次	c=3 d=1.77725 t=10680
+liang duan 	两端	c=1 d=0.628135 t=10680
+liang fen 	两份	c=1 d=0.873716 t=10680
+liang ge 	两个	c=9 d=3.13202 t=10680
+liang ge ren 	两个人	c=0 d=0.067368 t=10680
+liang ju hua 	两句话	c=1 d=0.895834 t=10680
+liang pian 	两片	c=2 d=1.8696 t=10680
+liang tian 	两天	c=2 d=1.19713 t=10680
+liao 	料	c=1 d=0.794533 t=10680
+liao jie 	了解	c=5 d=1.89046 t=10680
+liao tian 	聊天	c=3 d=2.36175 t=10680
+liao yi liao 	聊一聊	c=1 d=0.904837 t=10680
+lie biao 	列表	c=1 d=0.987989 t=10680
+lie biao tai 	列表太	c=1 d=0.559898 t=10680
+lie ju 	列举	c=1 d=0.886921 t=10680
+lie shou 	猎手	c=1 d=0.794533 t=10680
+lin shi 	临时	c=2 d=1.60247 t=10680
+lin ying 	临颍	c=1 d=0.737124 t=10680
+ling 	领	c=2 d=1.1911 t=10680
+ling dao 	领导	c=2 d=1.43248 t=10680
+ling sheng 	铃声	c=4 d=2.69369 t=10680
+ling tong 	灵通	c=1 d=0.970445 t=10680
+ling wai 	另外	c=10 d=3.66775 t=10680
+ling yi ge 	另一个	c=4 d=2.22286 t=10680
+ling yi jia 	另一家	c=1 d=0.744531 t=10680
+liu 	刘	c=3 d=1.96828 t=10680
+liu 	流	c=4 d=2.66747 t=10680
+liu 	留	c=1 d=0.5975 t=10680
+liu cheng 	流程	c=2 d=1.49879 t=10680
+liu dong 	流动	c=1 d=0.831104 t=10680
+liu hao 	留好	c=1 d=0.380983 t=10680
+liu lan 	浏览	c=1 d=0.865022 t=10680
+liu lan qi 	浏览器	c=2 d=1.58927 t=10680
+liu pai 	流派	c=2 d=1.79575 t=10680
+liu pai hua 	流派化	c=1 d=0.847893 t=10680
+liu zhe 	留着	c=1 d=0.729789 t=10680
+liu zhuan 	流转	c=1 d=0.491644 t=10680
+long tou 	龙头	c=1 d=0.640824 t=10680
+lou xia 	楼下	c=5 d=2.0674 t=10680
+lu 	路	c=1 d=0.831104 t=10680
+lu cheng 	路程	c=1 d=0.453845 t=10680
+lu jing 	路径	c=3 d=1.28719 t=10680
+lu lao 	卢佬	c=2 d=1.72144 t=10680
+lu shi 	炉石	c=2 d=0.631603 t=10680
+lu ya 	路亚	c=1 d=0.856415 t=10680
+lu you 	路由	c=1 d=0.878096 t=10680
+lu yu 	鲈鱼	c=1 d=0.786627 t=10680
+luan 	乱	c=1 d=0.798516 t=10680
+luan wei 	栾伟	c=2 d=1.65105 t=10680
+luo he 	漯河	c=1 d=0.774917 t=10680
+luo ji 	逻辑	c=6 d=2.9779 t=10680
+lv lian 	绿联	c=0 d=0.0697676 t=10680
+lv lian yun 	绿联云	c=2 d=1.42733 t=10680
+ma 	吗	c=102 d=11.4427 t=10680
+ma 	嘛	c=35 d=7.28915 t=10680
+ma fan 	麻烦	c=9 d=3.72993 t=10680
+ma le 	麻了	c=1 d=0.759572 t=10680
+ma shang 	马上	c=7 d=2.59827 t=10680
+mai 	买	c=29 d=5.56447 t=10680
+mai 	卖	c=5 d=2.35691 t=10680
+mai dian 	买点	c=1 d=0.557106 t=10680
+mai fang 	买房	c=1 d=0.408608 t=10680
+mai fei 	买飞	c=2 d=1.25973 t=10680
+mai hao 	买好	c=1 d=0.535262 t=10680
+mai jiu mai 	买就买	c=0 d=0.0860708 t=10680
+mai le 	卖了	c=1 d=0.843665 t=10680
+man 	慢	c=5 d=2.10763 t=10680
+man 	满	c=6 d=2.90767 t=10680
+man ji 	满级	c=1 d=0.506617 t=10680
+man zu 	满足	c=3 d=1.42774 t=10680
+mang 	忙	c=1 d=0.923116 t=10680
+mang si le 	忙死了	c=1 d=0.913931 t=10680
+mao si 	貌似	c=1 d=0.576949 t=10680
+me 	么	c=4 d=3.42775 t=10680
+mei 	没	c=37 d=4.84235 t=10680
+mei bi yao 	没必要	c=1 d=0.609571 t=10680
+mei chong dian 	没充电	c=1 d=0.886921 t=10680
+mei ci 	每次	c=1 d=0.865022 t=10680
+mei fa 	没法	c=2 d=1.69659 t=10680
+mei gu 	每股	c=1 d=0.76338 t=10680
+mei gu 	美股	c=2 d=1.55383 t=10680
+mei guo 	美国	c=2 d=1.15845 t=10680
+mei guo duo jiu 	没过多久	c=1 d=0.286505 t=10680
+mei hua shuo 	没话说	c=1 d=0.733447 t=10680
+mei jia fen 	没加分	c=1 d=0.909373 t=10680
+mei jian guo 	没见过	c=1 d=0.621885 t=10680
+mei kan 	没看	c=1 d=0.771052 t=10680
+mei kan chu lai 	没看出来	c=1 d=0.965606 t=10680
+mei li 	美丽	c=1 d=0.878096 t=10680
+mei mai 	没买	c=2 d=1.30683 t=10680
+mei ming bai 	没明白	c=1 d=0.715338 t=10680
+mei ne 	没呢	c=1 d=0.932393 t=10680
+mei qian 	没钱	c=1 d=0.477114 t=10680
+mei qian guo 	没欠过	c=1 d=0.603505 t=10680
+mei qing jia 	没请假	c=1 d=0.909373 t=10680
+mei sha 	没啥	c=3 d=1.71819 t=10680
+mei shi 	没事	c=4 d=1.74285 t=10680
+mei tian 	每天	c=2 d=0.926589 t=10680
+mei ting 	没听	c=1 d=0.496585 t=10680
+mei wen ti 	没问题	c=2 d=0.954338 t=10680
+mei xie guo 	没写过	c=1 d=0.794533 t=10680
+mei xue 	梅雪	c=1 d=0.67368 t=10680
+mei yi si 	没意思	c=1 d=0.786627 t=10680
+mei you 	没有	c=56 d=8.19519 t=10680
+mei yuan 	美元	c=1 d=0.913931 t=10680
+mei yue 	每月	c=2 d=0.973792 t=10680
+mei zhou 	每周	c=1 d=0.826959 t=10680
+men 	们	c=13 d=3.84727 t=10680
+meng la 	猛拉	c=1 d=0.591556 t=10680
+mi ma 	密码	c=1 d=0.748264 t=10680
+mian 	面	c=3 d=1.84006 t=10680
+mian ban 	面板	c=12 d=3.9301 t=10680
+mian fei 	免费	c=1 d=0.937067 t=10680
+miao bian 	描边	c=1 d=0.744531 t=10680
+miao yi yan 	瞄一眼	c=1 d=0.704688 t=10680
+ming bai 	明白	c=1 d=0.83527 t=10680
+ming ling 	命令	c=4 d=2.03435 t=10680
+ming ming 	命名	c=1 d=0.891366 t=10680
+ming ming 	明明	c=1 d=0.886921 t=10680
+ming nian 	明年	c=5 d=1.47492 t=10680
+ming que 	明确	c=3 d=1.77418 t=10680
+ming tian 	明天	c=5 d=2.42804 t=10680
+mo 	摸	c=6 d=2.6311 t=10680
+mo dao 	魔道	c=1 d=0.955998 t=10680
+mo kuai 	模块	c=14 d=6.0616 t=10680
+mo ren 	默认	c=11 d=5.09005 t=10680
+mo ren zhi 	默认值	c=1 d=0.886921 t=10680
+mo shi 	模式	c=1 d=0.909373 t=10680
+mo tai 	模态	c=34 d=9.75856 t=10680
+mo tai ye 	模态页	c=1 d=0.574072 t=10680
+mo xing 	模型	c=2 d=1.73958 t=10680
+mo yu 	摸鱼	c=6 d=2.8697 t=10680
+mo yu ren 	摸鱼人	c=2 d=0.786754 t=10680
+mu 	目	c=1 d=0.970445 t=10680
+mu li 	牡蛎	c=1 d=0.923116 t=10680
+mu lu 	目录	c=8 d=3.94277 t=10680
+mu qian 	目前	c=2 d=1.45303 t=10680
+na 	哪	c=8 d=3.02 t=10680
+na 	拿	c=1 d=0.802519 t=10680
+na 	那	c=6 d=1.45358 t=10680
+na bian 	哪边	c=1 d=0.798516 t=10680
+na bian 	那边	c=5 d=1.44541 t=10680
+na bu jiu shi 	那不就是	c=1 d=0.878096 t=10680
+na duan 	那段	c=1 d=0.494109 t=10680
+na ge 	哪个	c=10 d=4.25258 t=10680
+na ge 	那个	c=8 d=2.79163 t=10680
+na ji ge 	那几个	c=1 d=0.786627 t=10680
+na jiu xing 	那就行	c=1 d=0.843665 t=10680
+na ke bu 	那可不	c=1 d=0.704688 t=10680
+na ken ding 	那肯定	c=1 d=0.56836 t=10680
+na li 	哪里	c=3 d=1.61654 t=10680
+na me 	那么	c=18 d=5.17807 t=10680
+na ni 	那你	c=3 d=1.16177 t=10680
+na shui 	纳税	c=1 d=0.767206 t=10680
+na tian 	那天	c=1 d=0.927743 t=10680
+na tiao 	那条	c=1 d=0.918513 t=10680
+na wo 	那我	c=3 d=1.84862 t=10680
+na xie 	哪些	c=1 d=0.67032 t=10680
+na xie 	那些	c=2 d=0.996533 t=10680
+na yang 	那样	c=1 d=0.946486 t=10680
+na zhang 	那张	c=1 d=0.647264 t=10680
+na zhe 	拿着	c=1 d=0.759572 t=10680
+na zhe 	那这	c=0 d=0.0666976 t=10680
+na zhe bu hai shi 	那这不还是	c=1 d=0.67032 t=10680
+na zhe ge 	那这个	c=1 d=0.918513 t=10680
+na zhong 	哪种	c=3 d=0.9927 t=10680
+na zhong 	那种	c=2 d=0.821149 t=10680
+nai cha 	奶茶	c=3 d=1.73664 t=10680
+nai fei 	奈飞	c=2 d=0.677057 t=10680
+nan ding 	难顶	c=2 d=1.18455 t=10680
+nan guo 	难过	c=1 d=0.97531 t=10680
+nan jing 	南京	c=7 d=2.30331 t=10680
+nan jing en 	南京恩	c=1 d=0.612626 t=10680
+nan shou 	难受	c=2 d=0.97531 t=10680
+nao zhong 	闹钟	c=2 d=0.865022 t=10680
+ne 	呢	c=47 d=6.6147 t=10680
+nei 	内	c=1 d=0.790571 t=10680
+nei bu 	内部	c=2 d=1.44732 t=10680
+nei ping 	内屏	c=1 d=0.886921 t=10680
+nei rong 	内容	c=11 d=3.18704 t=10680
+nei wang 	内网	c=2 d=1.4041 t=10680
+neng 	能	c=32 d=5.39149 t=10680
+neng bu neng 	能不能	c=11 d=3.41235 t=10680
+neng chi 	能吃	c=1 d=0.913931 t=10680
+neng fou 	能否	c=4 d=2.07242 t=10680
+neng gou 	能够	c=2 d=0.914035 t=10680
+neng li 	能力	c=1 d=0.790571 t=10680
+neng yong 	能用	c=1 d=0.737123 t=10680
+ni 	你	c=90 d=10.1021 t=10680
+ni a 	你啊	c=1 d=0.729789 t=10680
+ni bu shi 	你不是	c=3 d=1.45205 t=10680
+ni cai 	你猜	c=1 d=0.860708 t=10680
+ni de 	你的	c=3 d=1.65107 t=10680
+ni dou 	你都	c=1 d=0.839457 t=10680
+ni dui xiang 	你对象	c=1 d=0.618783 t=10680
+ni gei wo 	你给我	c=1 d=0.847893 t=10680
+ni gen 	你跟	c=1 d=0.810584 t=10680
+ni hai 	你还	c=1 d=0.878096 t=10680
+ni hao 	你好	c=6 d=4.27284 t=10680
+ni jiu 	你就	c=1 d=0.722527 t=10680
+ni kan 	你看	c=2 d=1.00942 t=10680
+ni kan ba 	你看吧	c=1 d=0.891366 t=10680
+ni kan xia 	你看下	c=1 d=0.865022 t=10680
+ni ke yi 	你可以	c=1 d=0.68045 t=10680
+ni lao shi 	你老是	c=1 d=0.726149 t=10680
+ni men 	你们	c=10 d=2.20627 t=10680
+ni neng 	你能	c=1 d=0.576949 t=10680
+ni qu 	你去	c=1 d=0.802519 t=10680
+ni sha 	你啥	c=1 d=0.927743 t=10680
+ni shang 	你上	c=0 d=0.0637628 t=10680
+ni shang bei 	你上呗	c=1 d=0.640824 t=10680
+ni shi 	你是	c=1 d=0.527293 t=10680
+ni shi bu shi 	你是不是	c=1 d=0.58567 t=10680
+ni shuo 	你说	c=2 d=1.40148 t=10680
+ni wen 	你问	c=1 d=0.941764 t=10680
+ni xian 	你先	c=1 d=0.67368 t=10680
+ni xiao zi 	你小子	c=1 d=0.878096 t=10680
+ni yao 	你要	c=1 d=0.95123 t=10680
+ni zen me 	你怎么	c=1 d=0.927743 t=10680
+ni zhe 	你这	c=1 d=0.527293 t=10680
+ni zhe ge 	你这个	c=2 d=1.37811 t=10680
+ni zhi qian 	你之前	c=1 d=0.923116 t=10680
+ni zi ji 	你自己	c=1 d=0.900324 t=10680
+nian 	年	c=13 d=7.07587 t=10680
+nian qian 	年前	c=2 d=1.30945 t=10680
+nong 	弄	c=5 d=1.86528 t=10680
+nong 	浓	c=0 d=0.0932393 t=10680
+nong bo he 	浓薄荷	c=1 d=0.937067 t=10680
+nong ge 	弄个	c=1 d=0.900324 t=10680
+nuan he 	暖和	c=1 d=0.755783 t=10680
+nv 	女	c=1 d=0.755783 t=10680
+nv da san 	女大三	c=1 d=0.625002 t=10680
+o 	哦	c=6 d=3.8938 t=10680
+ou xian 	偶现	c=3 d=1.44981 t=10680
+pai 	拍	c=2 d=1.22355 t=10680
+pai cha 	排查	c=1 d=0.494109 t=10680
+pai dui 	排队	c=1 d=0.755783 t=10680
+pai qi 	排期	c=2 d=1.53114 t=10680
+pai xi 	派息	c=1 d=0.744531 t=10680
+pan 	盘	c=2 d=1.76194 t=10680
+pan duan 	判断	c=5 d=2.51364 t=10680
+pan qian 	盘前	c=1 d=0.71177 t=10680
+pan zhong 	盘中	c=1 d=0.733447 t=10680
+pang 	庞	c=1 d=0.95123 t=10680
+pang bian 	旁边	c=2 d=1.62125 t=10680
+pang pi 	鳑鲏	c=2 d=1.77842 t=10680
+pao 	泡	c=4 d=2.08864 t=10680
+pao 	跑	c=2 d=1.60607 t=10680
+pao yi xia 	跑一下	c=1 d=0.798516 t=10680
+pao zhe 	泡着	c=2 d=1.57744 t=10680
+pei 	赔	c=7 d=2.70487 t=10680
+pei 	陪	c=2 d=1.50706 t=10680
+pei ben 	赔本	c=1 d=0.752015 t=10680
+pei jin qu 	赔进去	c=1 d=0.489192 t=10680
+pei qian 	赔钱	c=1 d=0.946486 t=10680
+pei si 	赔死	c=1 d=0.640824 t=10680
+pei song 	配送	c=1 d=0.782705 t=10680
+pei zhi 	配置	c=16 d=5.82694 t=10680
+peng ge 	鹏哥	c=4 d=2.54957 t=10680
+peng pai 	澎湃	c=1 d=0.882496 t=10680
+peng you 	朋友	c=1 d=0.759572 t=10680
+peng zong 	鹏总	c=2 d=1.43117 t=10680
+pi pei 	匹配	c=2 d=1.23215 t=10680
+pi sa 	披萨	c=2 d=1.8097 t=10680
+pin fan 	频繁	c=1 d=0.798516 t=10680
+pin lv 	频率	c=1 d=0.941764 t=10680
+pin shang 	品赏	c=1 d=0.909373 t=10680
+ping ban 	平板	c=2 d=1.24932 t=10680
+ping bi 	屏蔽	c=4 d=2.32078 t=10680
+ping ge 	平哥	c=4 d=3.09552 t=10680
+ping gu 	评估	c=1 d=0.416862 t=10680
+ping guo 	苹果	c=2 d=1.47454 t=10680
+ping guo gan 	苹果干	c=3 d=1.54403 t=10680
+ping heng 	平衡	c=1 d=0.740818 t=10680
+ping mu 	屏幕	c=1 d=0.895834 t=10680
+ping shi 	平时	c=3 d=1.37978 t=10680
+ping yi 	平移	c=1 d=0.737124 t=10680
+po 	破	c=2 d=0.75585 t=10680
+pu hao 	铺好	c=1 d=0.843665 t=10680
+pu tong 	普通	c=3 d=1.64971 t=10680
+qi 	器	c=2 d=1.80175 t=10680
+qi 	起	c=1 d=0.790571 t=10680
+qi chuang 	起床	c=1 d=0.543351 t=10680
+qi dong 	启动	c=7 d=3.99602 t=10680
+qi fei 	起飞	c=1 d=0.852144 t=10680
+qi fu 	欺负	c=2 d=1.55107 t=10680
+qi guai 	奇怪	c=1 d=0.900324 t=10680
+qi keng 	弃坑	c=1 d=0.289384 t=10680
+qi lai 	起来	c=3 d=2.2272 t=10680
+qi ma 	起码	c=2 d=1.26254 t=10680
+qi pai 	弃牌	c=1 d=0.778801 t=10680
+qi quan 	期权	c=2 d=1.37705 t=10680
+qi shi 	其实	c=1 d=0.923116 t=10680
+qi ta 	其他	c=11 d=3.64762 t=10680
+qi wang 	期望	c=3 d=1.23451 t=10680
+qi xi 	气息	c=1 d=0.856415 t=10680
+qi zhong 	其中	c=1 d=0.909373 t=10680
+qian 	前	c=7 d=2.65867 t=10680
+qian 	牵	c=1 d=0.737124 t=10680
+qian 	钱	c=8 d=2.19625 t=10680
+qian duan 	前端	c=1 d=0.336217 t=10680
+qian duan shi jian 	前段时间	c=2 d=1.21847 t=10680
+qian jie 	倩姐	c=2 d=1.44403 t=10680
+qian mian 	前面	c=1 d=0.767206 t=10680
+qian ren 	千人	c=1 d=0.802519 t=10680
+qian tian 	前天	c=1 d=0.891366 t=10680
+qian xian 	前线	c=1 d=0.909373 t=10680
+qiang 	墙	c=1 d=0.937067 t=10680
+qiang 	强	c=2 d=1.44978 t=10680
+qiang dao 	抢到	c=2 d=1.44266 t=10680
+qie 	且	c=2 d=1.5283 t=10680
+qie 	切	c=2 d=1.30336 t=10680
+qie huan 	切换	c=1 d=0.865022 t=10680
+qing 	请	c=4 d=1.4783 t=10680
+qing chu 	清除	c=4 d=2.31836 t=10680
+qing jia 	请假	c=4 d=1.9406 t=10680
+qing jiao xia 	请教下	c=1 d=0.960789 t=10680
+qing kong 	清空	c=1 d=0.932393 t=10680
+qing kuang 	情况	c=4 d=2.00299 t=10680
+qing li 	清理	c=3 d=2.51092 t=10680
+qing wei 	轻微	c=1 d=0.782705 t=10680
+qing xin 	清新	c=1 d=0.900324 t=10680
+qing zheng 	清蒸	c=1 d=0.782705 t=10680
+qiu 	球	c=1 d=0.752015 t=10680
+qiu hun 	求婚	c=2 d=0.599415 t=10680
+qiu ni 	求你	c=1 d=0.946486 t=10680
+qu 	去	c=38 d=7.34592 t=10680
+qu 	取	c=2 d=1.32094 t=10680
+qu bie 	区别	c=2 d=1.70056 t=10680
+qu bu qu 	去不去	c=1 d=0.802519 t=10680
+qu chu 	去除	c=2 d=1.73959 t=10680
+qu chu lai 	取出来	c=1 d=0.701174 t=10680
+qu dao 	渠道	c=3 d=1.95167 t=10680
+qu diao 	去掉	c=5 d=2.35515 t=10680
+qu fen 	区分	c=1 d=0.904837 t=10680
+qu na 	去拿	c=1 d=0.955998 t=10680
+qu nian 	去年	c=2 d=0.618783 t=10680
+qu wan 	去玩	c=1 d=0.501577 t=10680
+qu xiao 	取消	c=14 d=3.85517 t=10680
+quan 	全	c=2 d=1.86488 t=10680
+quan cang 	全仓	c=1 d=0.554327 t=10680
+quan gei 	全给	c=1 d=0.66034 t=10680
+quan ju 	全局	c=2 d=1.31229 t=10680
+quan ni 	劝你	c=1 d=0.67368 t=10680
+quan pin 	全拼	c=1 d=0.932393 t=10680
+quan ping 	全屏	c=2 d=1.11978 t=10680
+quan xian 	权限	c=7 d=2.8915 t=10680
+quan xin 	全信	c=1 d=0.895834 t=10680
+que ding 	确定	c=4 d=2.6257 t=10680
+que ren 	确认	c=8 d=3.32605 t=10680
+que shao 	缺少	c=1 d=0.95123 t=10680
+que shi 	确实	c=1 d=0.790571 t=10680
+qun 	群	c=1 d=0.722527 t=10680
+qun li 	群里	c=1 d=0.810584 t=10680
+ran hou 	然后	c=6 d=2.18241 t=10680
+rang 	让	c=11 d=3.69785 t=10680
+rang ni 	让你	c=1 d=0.865022 t=10680
+rang ta 	让他	c=1 d=0.937067 t=10680
+rang wo 	让我	c=3 d=1.54883 t=10680
+re 	热	c=3 d=2.03234 t=10680
+re si 	热死	c=1 d=0.690734 t=10680
+ren 	人	c=8 d=3.26862 t=10680
+ren he 	任何	c=1 d=0.923116 t=10680
+ren jia 	人家	c=1 d=0.891366 t=10680
+ren lei 	人类	c=1 d=0.904837 t=10680
+ren shi 	认识	c=1 d=0.634448 t=10680
+ren wu 	任务	c=1 d=0.831104 t=10680
+ren zhi 	认知	c=2 d=1.53438 t=10680
+reng 	仍	c=2 d=1.67376 t=10680
+reng ran 	仍然	c=1 d=0.970445 t=10680
+reng shi 	仍是	c=1 d=0.97531 t=10680
+ri 	日	c=2 d=1.23599 t=10680
+ri bao 	日报	c=3 d=1.53772 t=10680
+ri bao zhong 	日报中	c=1 d=0.66034 t=10680
+ri qu 	日取	c=2 d=1.28496 t=10680
+ri zhi 	日志	c=20 d=8.62199 t=10680
+rong yao 	荣耀	c=2 d=1.73465 t=10680
+rong yi 	容易	c=1 d=0.733447 t=10680
+ru 	如	c=2 d=1.09814 t=10680
+ru ci 	如此	c=3 d=2.41984 t=10680
+ru guo 	如果	c=18 d=4.94667 t=10680
+ru he 	如何	c=8 d=2.02159 t=10680
+ru keng 	入坑	c=1 d=0.886921 t=10680
+ru xia 	如下	c=1 d=0.97531 t=10680
+ruan 	阮	c=1 d=0.657047 t=10680
+ruan jian 	软件	c=5 d=3.03837 t=10680
+rui xing 	瑞幸	c=4 d=1.97855 t=10680
+run se 	润色	c=1 d=0.965606 t=10680
+sa sa shui 	洒洒水	c=1 d=0.955998 t=10680
+san 	三	c=2 d=1.36904 t=10680
+san fang 	三方	c=6 d=3.14301 t=10680
+san ge 	三个	c=4 d=1.94281 t=10680
+san kuai 	三块	c=1 d=0.878096 t=10680
+san nian 	三年	c=1 d=0.576949 t=10680
+san si shi 	三四十	c=1 d=0.904837 t=10680
+san tian 	三天	c=1 d=0.677057 t=10680
+san xiang 	三项	c=1 d=0.923116 t=10680
+sao rao 	骚扰	c=1 d=0.778801 t=10680
+sha 	啥	c=20 d=4.03117 t=10680
+sha lu 	杀戮	c=1 d=0.798516 t=10680
+sha lu jian ta 	杀戮尖塔	c=1 d=0.774917 t=10680
+sha shi 	啥事	c=0 d=0.0937067 t=10680
+sha shi hou 	啥时候	c=1 d=0.831104 t=10680
+sha yi si 	啥意思	c=2 d=1.05706 t=10680
+sha zi 	傻子	c=1 d=0.932393 t=10680
+shai 	晒	c=1 d=0.909373 t=10680
+shan chu 	删除	c=9 d=2.98382 t=10680
+shang 	上	c=25 d=5.7222 t=10680
+shang ban 	上班	c=6 d=2.74673 t=10680
+shang ban bu fen 	上半部分	c=1 d=0.798516 t=10680
+shang chuan 	上传	c=4 d=3.23349 t=10680
+shang ci 	上次	c=4 d=1.2449 t=10680
+shang di 	上地	c=3 d=2.76098 t=10680
+shang ge 	上个	c=1 d=0.687289 t=10680
+shang hai 	上海	c=2 d=1.62669 t=10680
+shang hua 	上滑	c=1 d=0.778801 t=10680
+shang hui 	上会	c=1 d=0.752015 t=10680
+shang lai 	上来	c=1 d=0.690734 t=10680
+shang liang 	商量	c=1 d=0.522045 t=10680
+shang mian 	上面	c=1 d=0.798516 t=10680
+shang wu 	上午	c=2 d=1.24552 t=10680
+shang xia 	上下	c=2 d=1.27165 t=10680
+shang xian 	上线	c=1 d=0.565526 t=10680
+shang yi zhang 	上一张	c=2 d=1.0363 t=10680
+shao 	少	c=4 d=2.16387 t=10680
+shao deng 	稍等	c=2 d=1.5351 t=10680
+shao tang 	少糖	c=1 d=0.900324 t=10680
+shao zhuan 	少赚	c=1 d=0.843665 t=10680
+she bei 	设备	c=12 d=3.68427 t=10680
+she ji 	设计	c=6 d=3.13231 t=10680
+she ji tu 	设计图	c=1 d=0.537945 t=10680
+she qu 	社区	c=1 d=0.843665 t=10680
+she ying 	摄影	c=1 d=0.315057 t=10680
+she zhi 	设置	c=53 d=10.095 t=10680
+she zhi wei 	设置为	c=1 d=0.895834 t=10680
+she zhi xiang 	设置项	c=13 d=4.84284 t=10680
+she zhi ye 	设置也	c=1 d=0.839457 t=10680
+shen 	深	c=2 d=1.22024 t=10680
+shen 	神	c=3 d=2.02708 t=10680
+shen bao 	申报	c=5 d=3.91683 t=10680
+shen bian 	身边	c=1 d=0.839457 t=10680
+shen du 	深度	c=1 d=0.965606 t=10680
+shen fen 	身份	c=1 d=0.909373 t=10680
+shen fen zheng 	身份证	c=1 d=0.974348 t=10680
+shen geng 	深耕	c=1 d=0.588605 t=10680
+shen me 	什么	c=48 d=10.1163 t=10680
+shen pi 	审批	c=1 d=0.818731 t=10680
+shen qing 	申请	c=5 d=2.67655 t=10680
+sheng 	升	c=1 d=0.869358 t=10680
+sheng cheng 	生成	c=2 d=1.22465 t=10680
+sheng huo 	生活	c=1 d=0.852144 t=10680
+sheng ji 	升级	c=14 d=3.64162 t=10680
+sheng xia 	剩下	c=2 d=1.54698 t=10680
+sheng xiao 	生效	c=1 d=0.786627 t=10680
+sheng xiao hai 	生小孩	c=1 d=0.412714 t=10680
+sheng yin 	声音	c=6 d=3.02408 t=10680
+shi 	事	c=3 d=1.13463 t=10680
+shi 	时	c=32 d=6.03527 t=10680
+shi 	是	c=189 d=17.6502 t=10680
+shi 	石	c=0 d=0.071177 t=10680
+shi an 	是按	c=1 d=0.831104 t=10680
+shi ba 	是吧	c=4 d=1.63065 t=10680
+shi bai 	失败	c=3 d=2.51438 t=10680
+shi bu shi 	是不是	c=10 d=3.39385 t=10680
+shi chang 	时长	c=2 d=0.900732 t=10680
+shi dai bian le 	时代变了	c=1 d=0.790571 t=10680
+shi de 	是的	c=1 d=0.802519 t=10680
+shi di 	是滴	c=12 d=3.32692 t=10680
+shi duo shao 	是多少	c=1 d=0.729789 t=10680
+shi fang 	释放	c=1 d=0.965606 t=10680
+shi fou 	是否	c=24 d=5.82864 t=10680
+shi he 	适合	c=1 d=0.946486 t=10680
+shi hou 	时候	c=14 d=3.50583 t=10680
+shi jian 	事件	c=3 d=1.78275 t=10680
+shi jian 	时间	c=22 d=5.79234 t=10680
+shi jian 	视奸	c=0 d=0.0900324 t=10680
+shi jian chu li 	事件处理	c=1 d=0.856415 t=10680
+shi jian wo 	视奸我	c=1 d=0.904837 t=10680
+shi ke yi 	是可以	c=1 d=0.70822 t=10680
+shi li 	示例	c=1 d=0.900324 t=10680
+shi ma 	是吗	c=3 d=2.01704 t=10680
+shi ma 	是嘛	c=1 d=0.514273 t=10680
+shi pei 	适配	c=7 d=4.48842 t=10680
+shi pin 	视频	c=8 d=3.9559 t=10680
+shi qu 	市区	c=1 d=0.778801 t=10680
+shi sha 	是啥	c=2 d=1.56737 t=10680
+shi shen me 	是什么	c=2 d=1.01238 t=10680
+shi shi 	试试	c=3 d=1.5199 t=10680
+shi wo men 	使我们	c=1 d=0.904837 t=10680
+shi wu 	食物	c=1 d=0.946486 t=10680
+shi xia 	试下	c=2 d=1.60404 t=10680
+shi xian 	实现	c=13 d=4.51539 t=10680
+shi yi xia 	试一下	c=1 d=0.843665 t=10680
+shi yong 	使用	c=21 d=6.02982 t=10680
+shi yong 	试用	c=4 d=2.20652 t=10680
+shi zai 	实在	c=1 d=0.755783 t=10680
+shi zai 	是在	c=2 d=1.42185 t=10680
+shi zhe 	使者	c=1 d=0.66034 t=10680
+shi zhe 	试着	c=1 d=0.663651 t=10680
+shi zhe yang 	是这样	c=2 d=1.45067 t=10680
+shi zhi chao 	石智超	c=1 d=0.715338 t=10680
+shou 	手	c=2 d=1.4139 t=10680
+shou biao 	手表	c=1 d=0.722527 t=10680
+shou dao 	收到	c=3 d=1.84948 t=10680
+shou de liao 	受得了	c=1 d=0.970445 t=10680
+shou dong 	手动	c=1 d=0.774917 t=10680
+shou hui 	收回	c=1 d=0.774917 t=10680
+shou ji 	手机	c=5 d=3.00273 t=10680
+shou qi 	收起	c=13 d=4.51066 t=10680
+shou shi 	手势	c=1 d=0.634448 t=10680
+shou yi 	收益	c=5 d=2.38416 t=10680
+shou yi di 	收益低	c=1 d=0.694196 t=10680
+shou yi gao 	收益高	c=1 d=0.774917 t=10680
+shou zuo 	手作	c=1 d=0.759572 t=10680
+shu fu 	舒服	c=2 d=1.51224 t=10680
+shu ju 	数据	c=16 d=6.21427 t=10680
+shu li 	梳理	c=3 d=1.96381 t=10680
+shu liang 	数量	c=1 d=0.946486 t=10680
+shu ru 	输入	c=1 d=0.913931 t=10680
+shu ru duan 	输入端	c=1 d=0.900324 t=10680
+shu ru fa 	输入法	c=1 d=0.913931 t=10680
+shu xi 	熟悉	c=1 d=0.778801 t=10680
+shu yu 	属于	c=1 d=0.759572 t=10680
+shu zhi 	述职	c=2 d=1.82335 t=10680
+shua 	刷	c=2 d=1.3774 t=10680
+shuang 	爽	c=3 d=1.49469 t=10680
+shuang ji 	双击	c=2 d=1.94092 t=10680
+shuang pin 	双拼	c=2 d=1.18749 t=10680
+shui 	睡	c=1 d=0.726149 t=10680
+shui 	税	c=2 d=1.29524 t=10680
+shui 	谁	c=4 d=2.34478 t=10680
+shui man 	谁慢	c=1 d=0.965606 t=10680
+shui qian 	睡前	c=1 d=0.694196 t=10680
+shui you 	谁有	c=1 d=0.965606 t=10680
+shui zhao 	睡着	c=1 d=0.960789 t=10680
+shuo 	说	c=28 d=5.07634 t=10680
+shuo bu shang 	说不上	c=1 d=0.852144 t=10680
+shuo jin 	说近	c=1 d=0.477114 t=10680
+shuo mai jiu mai 	说买就买	c=1 d=0.865022 t=10680
+shuo wo 	说我	c=1 d=0.628135 t=10680
+shuo xia 	说下	c=3 d=1.63607 t=10680
+shuo yi xia 	说一下	c=3 d=1.25884 t=10680
+shuo yuan 	说远	c=1 d=0.472367 t=10680
+si 	思	c=2 d=0.826959 t=10680
+si kao 	思考	c=2 d=1.17783 t=10680
+si lu 	思路	c=9 d=3.21994 t=10680
+si wei 	思维	c=1 d=0.856415 t=10680
+si wo le 	死我了	c=1 d=0.449329 t=10680
+si zhou 	四周	c=1 d=0.843665 t=10680
+song dao 	送到	c=1 d=0.946486 t=10680
+sou bu dao 	搜不到	c=1 d=0.802519 t=10680
+sou suo 	搜索	c=1 d=0.97531 t=10680
+suan 	算	c=4 d=2.19517 t=10680
+suan le 	算了	c=4 d=1.64549 t=10680
+suan shang 	算上	c=1 d=0.932393 t=10680
+sui ran 	虽然	c=1 d=0.909373 t=10680
+sui shi 	随时	c=1 d=0.386741 t=10680
+sun 	孙	c=1 d=0.449329 t=10680
+sun hao 	损耗	c=2 d=1.45259 t=10680
+suo 	锁	c=4 d=2.13567 t=10680
+suo de shui 	所得税	c=2 d=1.49207 t=10680
+suo ding 	锁定	c=1 d=0.878096 t=10680
+suo fang 	缩放	c=1 d=0.644036 t=10680
+suo ha 	梭哈	c=2 d=1.40627 t=10680
+suo ping 	锁屏	c=52 d=12.5809 t=10680
+suo ping jian 	锁屏键	c=1 d=0.786627 t=10680
+suo ping tong zhi 	锁屏通知	c=1 d=0.941764 t=10680
+suo yi 	所以	c=5 d=2.57329 t=10680
+suo you 	所有	c=4 d=2.28077 t=10680
+ta 	他	c=21 d=4.91526 t=10680
+ta 	她	c=3 d=1.64505 t=10680
+ta jia 	她家	c=1 d=0.551562 t=10680
+ta men 	他们	c=2 d=1.42266 t=10680
+ta zhe 	他这	c=1 d=0.941764 t=10680
+ta zhe ge 	他这个	c=1 d=0.909373 t=10680
+tai 	太	c=1 d=0.878871 t=10680
+tai 	态	c=1 d=0.562705 t=10680
+tai cha 	太差	c=1 d=0.83527 t=10680
+tai diao 	太屌	c=1 d=0.847893 t=10680
+tai duo 	太多	c=2 d=1.21404 t=10680
+tai hen 	太狠	c=1 d=0.878096 t=10680
+tai ji jin 	太激进	c=1 d=0.771052 t=10680
+tai jiu 	太久	c=1 d=0.767206 t=10680
+tai men re 	太闷热	c=1 d=0.865022 t=10680
+tai meng 	太猛	c=5 d=2.22766 t=10680
+tai nan qiang 	太难抢	c=1 d=0.831104 t=10680
+tai re 	太热	c=1 d=0.873716 t=10680
+tai yang 	太阳	c=1 d=0.748264 t=10680
+tai zhuan ye 	太专业	c=1 d=0.726149 t=10680
+tang 	汤	c=1 d=0.831104 t=10680
+tang 	糖	c=1 d=0.941764 t=10680
+tao 	套	c=1 d=0.869358 t=10680
+tao 	涛	c=1 d=0.937067 t=10680
+tao can 	套餐	c=1 d=0.913931 t=10680
+te ding 	特定	c=7 d=2.69051 t=10680
+te me 	特么	c=0 d=0.0932393 t=10680
+te shu 	特殊	c=1 d=0.697676 t=10680
+te shu chang jing 	特殊场景	c=1 d=0.591556 t=10680
+teng fei 	腾飞	c=1 d=0.66034 t=10680
+ti 	提	c=3 d=1.47341 t=10680
+ti an 	提案	c=1 d=0.847893 t=10680
+ti ce 	体测	c=1 d=0.647264 t=10680
+ti ce 	提测	c=4 d=1.76644 t=10680
+ti dan 	提单	c=1 d=0.677057 t=10680
+ti gong 	提供	c=13 d=4.99102 t=10680
+ti huan 	替换	c=2 d=1.08377 t=10680
+ti jiao 	提交	c=0 d=0.0904837 t=10680
+ti qian 	提前	c=4 d=2.08135 t=10680
+ti qu 	提取	c=1 d=0.694196 t=10680
+ti sheng 	提升	c=1 d=0.798516 t=10680
+ti shi 	提示	c=8 d=3.52566 t=10680
+ti shi yin 	提示音	c=8 d=4.52157 t=10680
+ti xing 	提醒	c=2 d=1.83249 t=10680
+tian 	填	c=5 d=3.22202 t=10680
+tian 	天	c=4 d=1.98869 t=10680
+tian 	甜	c=1 d=0.852313 t=10680
+tian bao 	填报	c=2 d=1.56537 t=10680
+tian jia 	添加	c=2 d=1.42266 t=10680
+tian man 	填满	c=1 d=0.76338 t=10680
+tian shang 	填上	c=1 d=0.650509 t=10680
+tian tian 	天天	c=8 d=2.44956 t=10680
+tian tian 	甜甜	c=1 d=0.965606 t=10680
+tian tian jia ban 	天天加班	c=1 d=0.918513 t=10680
+tian xia 	天下	c=1 d=0.891366 t=10680
+tiao 	条	c=1 d=0.5975 t=10680
+tiao 	调	c=1 d=0.650509 t=10680
+tiao 	跳	c=0 d=0.0752015 t=10680
+tiao cao 	跳槽	c=2 d=1.56543 t=10680
+tiao da 	调大	c=1 d=0.826959 t=10680
+tiao dan 	挑单	c=4 d=2.37274 t=10680
+tiao guo 	调过	c=1 d=0.65377 t=10680
+tiao guo 	跳过	c=1 d=0.97531 t=10680
+tiao jian 	条件	c=2 d=1.44502 t=10680
+tiao jiao 	调教	c=1 d=0.923116 t=10680
+tiao shi 	调试	c=1 d=0.882496 t=10680
+tiao xiu 	调休	c=5 d=3.06183 t=10680
+tiao yi xia 	调一下	c=1 d=0.856415 t=10680
+tiao zheng 	调整	c=3 d=1.60936 t=10680
+tiao zhi qian 	跳之前	c=1 d=0.755783 t=10680
+tiao zhuan 	跳转	c=3 d=1.82182 t=10680
+tie 	贴	c=1 d=0.909373 t=10680
+tie zi 	帖子	c=1 d=0.814647 t=10680
+ting 	听	c=2 d=1.34047 t=10680
+ting bu cuo 	挺不错	c=1 d=0.529936 t=10680
+ting cong 	听从	c=1 d=0.806541 t=10680
+ting hao he 	挺好喝	c=1 d=0.798516 t=10680
+ting shuang 	挺爽	c=1 d=0.873716 t=10680
+ting shuo 	听说	c=1 d=0.519442 t=10680
+ting zao 	挺早	c=1 d=0.609571 t=10680
+ting zhi 	停止	c=8 d=1.76022 t=10680
+tong 	同	c=1 d=0.97531 t=10680
+tong 	通	c=3 d=2.06427 t=10680
+tong bu 	同步	c=3 d=2.41941 t=10680
+tong chan 	通产	c=1 d=0.904837 t=10680
+tong chang 	通常	c=1 d=0.847893 t=10680
+tong feng 	通风	c=1 d=0.865022 t=10680
+tong guo 	通过	c=16 d=3.79767 t=10680
+tong hua 	通话	c=1 d=0.865022 t=10680
+tong ji 	统计	c=1 d=0.95123 t=10680
+tong shi 	同事	c=1 d=0.802519 t=10680
+tong shi 	同时	c=3 d=1.17715 t=10680
+tong xin 	通信	c=1 d=0.847893 t=10680
+tong xue 	同学	c=9 d=4.54115 t=10680
+tong xun 	通讯	c=1 d=0.965606 t=10680
+tong yi ge 	同一个	c=1 d=0.771052 t=10680
+tong yi hang 	同一行	c=1 d=0.744531 t=10680
+tong yong 	通用	c=1 d=0.970445 t=10680
+tong zhi 	通知	c=122 d=15.2221 t=10680
+tong zhi lan 	通知栏	c=4 d=1.77124 t=10680
+tou ming 	透明	c=1 d=0.814647 t=10680
+tou tou 	偷偷	c=2 d=1.10364 t=10680
+tou zi zhe 	投资者	c=1 d=0.886921 t=10680
+tu 	图	c=4 d=2.25463 t=10680
+tu biao 	图标	c=2 d=1.32056 t=10680
+tu dou fen 	土豆粉	c=1 d=0.514273 t=10680
+tu pian 	图片	c=2 d=1.84231 t=10680
+tu ran 	突然	c=3 d=1.37134 t=10680
+tu zhi 	图纸	c=1 d=0.847893 t=10680
+tui 	退	c=1 d=0.472367 t=10680
+tui bu 	退步	c=2 d=1.12934 t=10680
+tui chu 	退出	c=20 d=5.15806 t=10680
+tui jian 	推荐	c=3 d=1.58278 t=10680
+tui piao 	退票	c=1 d=0.97531 t=10680
+tui qun 	退群	c=1 d=0.814647 t=10680
+tuo 	脱	c=1 d=0.882496 t=10680
+tuo zhan 	拓展	c=1 d=0.818731 t=10680
+wa 	哇	c=1 d=0.818731 t=10680
+wai bao 	外包	c=0 d=0.083527 t=10680
+wai bao zi zhu 	外包自主	c=1 d=0.839457 t=10680
+wai bu 	外部	c=1 d=0.847893 t=10680
+wai bu qun 	外部群	c=1 d=0.806541 t=10680
+wai fa 	外发	c=1 d=0.67368 t=10680
+wai mian 	外面	c=3 d=1.54305 t=10680
+wai ping 	外屏	c=19 d=7.2841 t=10680
+wan 	万	c=1 d=0.886921 t=10680
+wan 	完	c=1 d=0.918513 t=10680
+wan 	晚	c=2 d=1.51959 t=10680
+wan 	玩	c=8 d=2.86152 t=10680
+wan cheng 	完成	c=1 d=0.955998 t=10680
+wan fa 	玩法	c=1 d=0.810584 t=10680
+wan fan 	晚饭	c=1 d=0.67368 t=10680
+wan guo 	玩过	c=1 d=0.722527 t=10680
+wan hui 	晚会	c=2 d=1.14657 t=10680
+wan le 	完了	c=1 d=0.97531 t=10680
+wan shang 	晚上	c=1 d=0.67032 t=10680
+wang 	王	c=1 d=0.882496 t=10680
+wang ji 	忘记	c=4 d=1.8493 t=10680
+wang ka 	网卡	c=1 d=0.865022 t=10680
+wang luo 	网络	c=4 d=3.37103 t=10680
+wang sheng 	旺盛	c=1 d=0.748264 t=10680
+wang zhan 	网站	c=2 d=1.5621 t=10680
+wei 	为	c=8 d=2.77331 t=10680
+wei 	胃	c=1 d=0.762555 t=10680
+wei bo lu 	微波炉	c=2 d=1.37456 t=10680
+wei dao 	味道	c=4 d=2.95412 t=10680
+wei duo li ya 	维多利亚	c=1 d=0.687289 t=10680
+wei guan bi 	未关闭	c=1 d=0.748264 t=10680
+wei hu 	维护	c=1 d=0.67032 t=10680
+wei ke neng 	胃可能	c=1 d=0.895834 t=10680
+wei lai ke qi 	未来可期	c=1 d=0.927743 t=10680
+wei sha 	为啥	c=4 d=2.69096 t=10680
+wei shen me 	为什么	c=2 d=1.50028 t=10680
+wei xiao 	微笑	c=1 d=0.814647 t=10680
+wei xin 	微信	c=4 d=2.58662 t=10680
+wei zhi 	位置	c=2 d=1.74298 t=10680
+wen 	问	c=4 d=2.15258 t=10680
+wen an 	文案	c=1 d=0.891366 t=10680
+wen dang 	文档	c=14 d=4.51891 t=10680
+wen dao 	闻到	c=1 d=0.798516 t=10680
+wen ding 	稳定	c=4 d=2.13367 t=10680
+wen du 	温度	c=4 d=2.69022 t=10680
+wen du bu gao 	温度不高	c=1 d=0.970445 t=10680
+wen jian 	文件	c=5 d=3.30046 t=10680
+wen jian jia 	文件夹	c=1 d=1 t=10680
+wen juan 	问卷	c=1 d=0.571209 t=10680
+wen ming 	文明	c=1 d=0.83527 t=10680
+wen ni 	问你	c=1 d=0.472367 t=10680
+wen quan 	温泉	c=2 d=1.81517 t=10680
+wen ti 	问题	c=31 d=5.00415 t=10680
+wen ti chu li 	问题处理	c=0 d=0.0941764 t=10680
+wen wo 	问我	c=1 d=0.451581 t=10680
+wen xia 	问下	c=8 d=4.04435 t=10680
+wen xiang 	蚊香	c=1 d=0.718923 t=10680
+wo 	我	c=169 d=13.2159 t=10680
+wo bao 	我宝	c=1 d=0.970445 t=10680
+wo ben di 	我本地	c=2 d=1.71361 t=10680
+wo bu guan 	我不管	c=1 d=0.557106 t=10680
+wo bu que ding 	我不确定	c=2 d=1.12012 t=10680
+wo bu shi 	我不是	c=1 d=0.918513 t=10680
+wo bu wen 	我不问	c=1 d=0.937067 t=10680
+wo cai 	我才	c=2 d=1.46009 t=10680
+wo de 	我的	c=4 d=2.35255 t=10680
+wo diao 	我屌	c=1 d=0.752015 t=10680
+wo dou shi 	我都是	c=1 d=0.918513 t=10680
+wo dui xiang 	我对象	c=2 d=0.666976 t=10680
+wo en zi ge 	我恩子哥	c=1 d=0.878096 t=10680
+wo gai 	我该	c=1 d=0.927743 t=10680
+wo gei ni 	我给你	c=2 d=1.59296 t=10680
+wo gen 	我跟	c=1 d=0.909373 t=10680
+wo hai 	我还	c=1 d=0.546074 t=10680
+wo hai ji de 	我还记得	c=1 d=0.305746 t=10680
+wo hai mei 	我还没	c=1 d=0.960789 t=10680
+wo hai xu yao 	我还需要	c=1 d=1 t=10678
+wo hai yi wei 	我还以为	c=1 d=0.752015 t=10680
+wo hai zai 	我还在	c=1 d=0.782705 t=10680
+wo hua 	我花	c=1 d=0.918513 t=10680
+wo ji de 	我记得	c=2 d=1.43461 t=10680
+wo jie 	我借	c=1 d=0.436049 t=10680
+wo jin tian 	我今天	c=1 d=0.856415 t=10680
+wo jiu 	我就	c=0 d=0.0937067 t=10680
+wo jiu sha shi 	我就啥事	c=1 d=0.941764 t=10680
+wo jue de 	我觉得	c=1 d=0.640824 t=10680
+wo kai 	我开	c=1 d=0.83527 t=10680
+wo kan 	我看	c=16 d=3.91092 t=10680
+wo kan kan 	我看看	c=1 d=0.774917 t=10680
+wo kan ni 	我看你	c=1 d=0.600495 t=10680
+wo kan xia 	我看下	c=1 d=0.822835 t=10680
+wo mei you 	我没有	c=1 d=0.865022 t=10680
+wo men 	我们	c=33 d=5.40502 t=10680
+wo shen fen zheng 	我身份证	c=1 d=0.923116 t=10680
+wo te me 	我特么	c=2 d=1.29705 t=10680
+wo ti jiao 	我提交	c=1 d=0.909373 t=10680
+wo tian wan 	我填完	c=1 d=0.519442 t=10680
+wo wen wen 	我问问	c=1 d=0.856415 t=10680
+wo xiang 	我想	c=2 d=1.42528 t=10680
+wo xu yao 	我需要	c=2 d=1.3107 t=10680
+wo yao 	我要	c=1 d=0.790571 t=10680
+wo ye 	我也	c=5 d=2.15341 t=10680
+wo ye shi 	我也是	c=1 d=0.873716 t=10680
+wo yi jing 	我已经	c=2 d=1.10924 t=10680
+wo zai 	我在	c=1 d=0.782705 t=10680
+wo zhao 	我找	c=1 d=0.529936 t=10680
+wo zhe 	我这	c=3 d=2.06739 t=10680
+wo zhe bian 	我这边	c=2 d=1.45407 t=10680
+wo zhi ji de 	我只记得	c=1 d=0.29671 t=10680
+wo zhi qian 	我之前	c=1 d=0.95123 t=10680
+wo zi ji 	我自己	c=1 d=0.767206 t=10680
+wu 	坞	c=1 d=0.822835 t=10680
+wu 	无	c=5 d=1.91568 t=10680
+wu fa 	无法	c=17 d=6.31073 t=10680
+wu nao 	无脑	c=1 d=0.97531 t=10680
+wu ren 	无人	c=1 d=0.904837 t=10680
+wu shuang 	无双	c=1 d=0.895834 t=10680
+wu suo 	无所	c=1 d=0.704688 t=10680
+wu suo wei 	无所谓	c=2 d=1.27805 t=10680
+wu wo 	误我	c=1 d=0.737124 t=10680
+wu wu wu wu 	呜呜呜呜	c=2 d=1.10665 t=10680
+wu yi yi 	无意义	c=1 d=0.752015 t=10680
+wu yong 	无用	c=1 d=0.677057 t=10680
+xi 	洗	c=1 d=0.463013 t=10680
+xi bian 	西边	c=1 d=0.759572 t=10680
+xi fen 	细分	c=1 d=0.628135 t=10680
+xi huan 	喜欢	c=1 d=0.822835 t=10680
+xi jie 	细节	c=2 d=0.939999 t=10680
+xi kan 	细看	c=2 d=1.4725 t=10680
+xi ping 	熄屏	c=2 d=1.52798 t=10680
+xi ri 	昔日	c=1 d=0.810584 t=10680
+xi shuo 	细说	c=1 d=0.782705 t=10680
+xi tong 	系统	c=13 d=6.00053 t=10680
+xi wang 	希望	c=1 d=0.818731 t=10680
+xia 	下	c=36 d=6.87871 t=10680
+xia ban 	下班	c=4 d=2.45004 t=10680
+xia ban bu fen 	下半部分	c=1 d=0.814647 t=10680
+xia ge 	下个	c=2 d=1.29876 t=10680
+xia ge yue 	下个月	c=1 d=0.886921 t=10680
+xia la 	下拉	c=50 d=12.5413 t=10680
+xia lai 	下来	c=1 d=0.937067 t=10680
+xia mian 	下面	c=1 d=0.76338 t=10680
+xia qu 	下去	c=1 d=0.794533 t=10680
+xia wu 	下午	c=6 d=2.706 t=10680
+xia xue 	下雪	c=1 d=0.852144 t=10680
+xia yi dai 	下一代	c=1 d=0.579842 t=10680
+xia yue 	下月	c=1 d=0.798516 t=10680
+xia zai 	下载	c=12 d=6.48787 t=10680
+xian 	先	c=16 d=3.35756 t=10680
+xian cheng 	县城	c=1 d=0.509157 t=10680
+xian cheng 	现成	c=3 d=1.31031 t=10680
+xian cheng 	线程	c=1 d=0.856415 t=10680
+xian dai hua 	现代化	c=1 d=0.839457 t=10680
+xian kan kan 	先看看	c=1 d=0.878096 t=10680
+xian mu 	羡慕	c=8 d=2.89246 t=10680
+xian shang 	线上	c=5 d=1.84034 t=10680
+xian shi 	显示	c=18 d=5.31712 t=10680
+xian shi chu 	显示出	c=1 d=0.774917 t=10680
+xian shi wei 	显示为	c=2 d=1.29055 t=10680
+xian xiang 	现象	c=3 d=2.20377 t=10680
+xian you 	现有	c=1 d=0.860708 t=10680
+xian zai 	现在	c=26 d=4.40477 t=10680
+xiang 	享	c=1 d=0.814647 t=10680
+xiang 	像	c=2 d=1.7742 t=10680
+xiang 	向	c=1 d=0.733447 t=10680
+xiang 	想	c=19 d=3.62117 t=10680
+xiang 	项	c=9 d=3.30776 t=10680
+xiang ce 	相册	c=1 d=0.744531 t=10680
+xiang chang 	香肠	c=1 d=0.71177 t=10680
+xiang dang yu 	相当于	c=1 d=0.612626 t=10680
+xiang dui 	相对	c=1 d=0.941764 t=10680
+xiang gang 	香港	c=2 d=1.56849 t=10680
+xiang ge 	翔哥	c=2 d=0.613071 t=10680
+xiang guan 	相关	c=11 d=3.80998 t=10680
+xiang he 	想喝	c=1 d=0.794533 t=10680
+xiang ji 	相机	c=1 d=0.891366 t=10680
+xiang ling 	响铃	c=3 d=1.95803 t=10680
+xiang mu 	项目	c=3 d=2.32944 t=10680
+xiang ping 	祥平	c=1 d=0.722527 t=10680
+xiang qu 	想去	c=2 d=1.31114 t=10680
+xiang shang 	向上	c=1 d=0.647264 t=10680
+xiang tong 	相同	c=1 d=0.657047 t=10680
+xiang xia 	乡下	c=1 d=0.416862 t=10680
+xiang yao 	想要	c=3 d=1.54153 t=10680
+xiang ying 	相应	c=1 d=0.856415 t=10680
+xiang zai 	想在	c=2 d=1.16883 t=10680
+xiang zhe 	想着	c=2 d=0.663651 t=10680
+xiao 	小	c=4 d=2.01891 t=10680
+xiao 	晓	c=1 d=0.852144 t=10680
+xiao 	笑	c=1 d=0.67032 t=10680
+xiao bai 	小白	c=1 d=0.771052 t=10680
+xiao fei 	消费	c=1 d=0.847893 t=10680
+xiao guo 	效果	c=6 d=2.46292 t=10680
+xiao he 	小鹤	c=2 d=1.18157 t=10680
+xiao hong shu 	小红书	c=2 d=1.67056 t=10680
+xiao huo jian 	小火箭	c=1 d=0.839457 t=10680
+xiao mao 	小猫	c=1 d=0.822835 t=10680
+xiao mi 	小米	c=13 d=4.4779 t=10680
+xiao qun 	小群	c=1 d=0.913931 t=10680
+xiao shi 	小时	c=3 d=1.75991 t=10680
+xiao shi 	消失	c=1 d=0.860708 t=10680
+xiao shi hou 	小时候	c=2 d=0.740818 t=10680
+xiao shuo 	小说	c=2 d=1.54991 t=10680
+xiao xi 	消息	c=1 d=0.960789 t=10680
+xiao xiao shi 	消消食	c=1 d=0.579842 t=10680
+xiao zhe die 	小折叠	c=1 d=0.856415 t=10680
+xiao zhuan 	小赚	c=1 d=0.66034 t=10680
+xie 	写	c=11 d=3.98664 t=10680
+xie 	歇	c=1 d=0.970445 t=10680
+xie bu xie 	写不写	c=1 d=0.826959 t=10680
+xie cheng 	写成	c=1 d=0.865022 t=10680
+xie cheng 	携程	c=1 d=0.822835 t=10680
+xie chu lai 	写出来	c=1 d=0.740818 t=10680
+xie dai 	携带	c=1 d=0.618783 t=10680
+xie dao 	写到	c=1 d=0.97531 t=10680
+xie fa 	写法	c=1 d=0.603505 t=10680
+xie guo 	写过	c=0 d=0.0790571 t=10680
+xie lou 	泄露	c=1 d=0.778801 t=10680
+xie sha 	歇啥	c=1 d=0.847893 t=10680
+xie xie 	谢谢	c=2 d=1.76104 t=10680
+xin 	心	c=1 d=0.852144 t=10680
+xin 	新	c=16 d=4.80422 t=10680
+xin 	歆	c=1 d=0.718923 t=10680
+xin ban 	新版	c=3 d=2.29204 t=10680
+xin ban ben 	新版本	c=1 d=0.941764 t=10680
+xin gao 	新高	c=1 d=0.603505 t=10680
+xin jia 	新加	c=6 d=2.69048 t=10680
+xin jian 	新建	c=3 d=2.2026 t=10680
+xin jie 	歆姐	c=3 d=1.01038 t=10680
+xin la 	新拉	c=2 d=1.89335 t=10680
+xin li 	心理	c=1 d=0.737124 t=10680
+xin xiang mu 	新项目	c=1 d=0.895834 t=10680
+xin xin ku ku 	辛辛苦苦	c=1 d=0.600495 t=10680
+xin xu qiu 	新需求	c=2 d=0.809905 t=10680
+xin zeng 	新增	c=6 d=2.72207 t=10680
+xing 	型	c=1 d=0.615698 t=10680
+xing 	行	c=2 d=1.51602 t=10680
+xing bu xing 	行不行	c=3 d=2.74142 t=10680
+xing kui 	幸亏	c=1 d=0.909373 t=10680
+xing li 	行李	c=1 d=0.860708 t=10680
+xing neng 	性能	c=5 d=2.95297 t=10680
+xing shi 	形式	c=2 d=1.20836 t=10680
+xing wei 	行为	c=1 d=0.562705 t=10680
+xing ye 	兴业	c=1 d=0.927743 t=10680
+xing zheng 	行政	c=0 d=0.0970445 t=10680
+xing zheng zhu shou 	行政助手	c=1 d=0.97531 t=10680
+xiu 	休	c=2 d=1.22943 t=10680
+xiu 	修	c=1 d=0.647264 t=10680
+xiu fu 	修复	c=6 d=2.36371 t=10680
+xiu gai 	修改	c=20 d=6.38887 t=10680
+xiu gai dian 	修改点	c=1 d=0.83527 t=10680
+xiu xi 	休息	c=6 d=2.59487 t=10680
+xu 	虚	c=1 d=0.955998 t=10680
+xu 	需	c=3 d=2.46924 t=10680
+xu ni 	虚拟	c=2 d=0.997215 t=10680
+xu ni an niu 	虚拟按钮	c=1 d=0.900324 t=10680
+xu qiu 	需求	c=18 d=5.84971 t=10680
+xu yao 	需要	c=61 d=10.0607 t=10680
+xuan 	选	c=1 d=0.621885 t=10680
+xuan fu 	悬浮	c=6 d=2.28513 t=10680
+xuan fu tong zhi 	悬浮通知	c=3 d=2.397 t=10680
+xuan ge 	轩哥	c=1 d=0.390628 t=10680
+xuan jie 	玄戒	c=2 d=1.05198 t=10680
+xuan ran 	渲染	c=3 d=2.50198 t=10680
+xuan xiang 	选项	c=7 d=2.90187 t=10680
+xuan xing 	选型	c=1 d=0.729789 t=10680
+xuan ze 	选择	c=1 d=0.767206 t=10680
+xuan zhong 	选中	c=2 d=1.58927 t=10680
+xue 	学	c=3 d=1.82447 t=10680
+xue dao 	学到	c=1 d=0.722527 t=10680
+xue fu 	学府	c=1 d=0.759572 t=10680
+xue kui 	血亏	c=1 d=0.506617 t=10680
+xue xi 	学习	c=2 d=1.92654 t=10680
+xun huan 	循环	c=2 d=1.60122 t=10680
+xun huan yi lai 	循环依赖	c=1 d=0.970445 t=10680
+xun lian 	训练	c=1 d=0.778801 t=10680
+ya 	呀	c=24 d=5.21272 t=10680
+ya 	牙	c=1 d=0.913931 t=10680
+ya ce 	压测	c=2 d=0.852144 t=10680
+ya ling 	亚玲	c=5 d=2.85027 t=10680
+ya ma 	亚麻	c=3 d=1.46256 t=10680
+yan 	严	c=0 d=0.12674 t=10680
+yan chi 	延迟	c=1 d=0.913931 t=10680
+yan fa 	研发	c=1 d=0.927743 t=10680
+yan ge 	严格	c=1 d=0.937067 t=10680
+yan jing 	眼镜	c=1 d=0.900324 t=10680
+yan zhong 	严重	c=1 d=0.790571 t=10680
+yan zu 	彦祖	c=2 d=1.34517 t=10680
+yan zu wen ti 	严阻问题	c=5 d=3.48275 t=10680
+yan zu wen ti chu li 	严阻问题处理	c=1 d=0.946486 t=10680
+yang 	样	c=3 d=1.75383 t=10680
+yang gui 	养龟	c=1 d=0.68045 t=10680
+yang rou 	羊肉	c=1 d=0.826959 t=10680
+yang rou tang 	羊肉汤	c=1 d=0.778801 t=10680
+yang shi 	样式	c=10 d=4.09109 t=10680
+yang tui 	羊腿	c=1 d=0.918513 t=10680
+yang zi 	样子	c=2 d=1.50207 t=10680
+yao 	药	c=1 d=0.878096 t=10680
+yao 	要	c=30 d=6.97129 t=10680
+yao bu 	要不	c=2 d=1.10085 t=10680
+yao bu yao 	要不要	c=1 d=0.71177 t=10680
+yao kan 	要看	c=1 d=0.95123 t=10680
+yao qiu 	要求	c=1 d=0.697676 t=10680
+yao yong 	要用	c=1 d=0.822835 t=10680
+yao zhang 	要账	c=1 d=0.414783 t=10680
+ye 	也	c=59 d=7.5073 t=10680
+ye 	页	c=12 d=5.01868 t=10680
+ye bu 	也不	c=2 d=0.76325 t=10680
+ye bu duo 	也不多	c=1 d=0.814647 t=10680
+ye bu hui 	也不会	c=2 d=0.95585 t=10680
+ye bu shi 	也不是	c=1 d=0.818731 t=10680
+ye bu yi ding 	也不一定	c=1 d=0.937067 t=10680
+ye bu yong 	也不用	c=1 d=0.650509 t=10680
+ye bu yuan 	也不远	c=1 d=0.474734 t=10680
+ye de 	也得	c=1 d=0.814647 t=10680
+ye de 	夜的	c=1 d=0.810584 t=10680
+ye hai hao 	也还好	c=1 d=0.937067 t=10680
+ye hao 	也好	c=0 d=0.065377 t=10680
+ye hao kan 	也好看	c=1 d=0.657047 t=10680
+ye hen 	也很	c=1 d=0.972282 t=10680
+ye hen tian 	也很甜	c=1 d=0.818731 t=10680
+ye hui 	也会	c=5 d=1.85831 t=10680
+ye ji 	也记	c=1 d=0.822835 t=10680
+ye jiu shi 	也就是	c=1 d=0.373439 t=10680
+ye ke neng 	也可能	c=1 d=0.886921 t=10680
+ye ke yi 	也可以	c=1 d=0.909373 t=10680
+ye mei 	也没	c=1 d=0.798516 t=10680
+ye mian 	页面	c=2 d=1.53478 t=10680
+ye neng 	也能	c=3 d=2.23285 t=10680
+ye pan 	夜盘	c=2 d=0.635487 t=10680
+ye shi 	也是	c=17 d=3.95003 t=10680
+ye shu 	页数	c=2 d=1.6131 t=10680
+ye tai 	也太	c=1 d=0.965606 t=10680
+ye wu 	业务	c=28 d=4.78504 t=10680
+ye you 	也有	c=2 d=1.17264 t=10680
+ye you dian 	也有点	c=1 d=0.927743 t=10680
+ye zai 	也在	c=1 d=0.704688 t=10680
+ye zhen 	也真	c=0 d=0.0477114 t=10680
+ye zhen bu jin 	也真不近	c=1 d=0.479505 t=10680
+yi 	一	c=2 d=1.36138 t=10680
+yi 	以	c=1 d=0.56836 t=10680
+yi 	已	c=7 d=2.9394 t=10680
+yi ban 	一版	c=2 d=1.6569 t=10680
+yi ban 	一般	c=2 d=1.48903 t=10680
+yi bei 	一杯	c=4 d=1.64626 t=10680
+yi bi 	一笔	c=5 d=2.73092 t=10680
+yi bo 	一波	c=1 d=0.729789 t=10680
+yi bu fen 	一部分	c=3 d=1.75488 t=10680
+yi ceng 	一层	c=1 d=0.891366 t=10680
+yi chang 	异常	c=5 d=3.10279 t=10680
+yi chu 	移除	c=5 d=3.21294 t=10680
+yi ci 	一次	c=4 d=1.74493 t=10680
+yi dao 	一道	c=1 d=0.843665 t=10680
+yi deng ji 	已登记	c=2 d=1.20988 t=10680
+yi dian 	一点	c=3 d=2.4983 t=10680
+yi du wan 	已读完	c=2 d=1.53449 t=10680
+yi duan 	一段	c=2 d=1.44931 t=10680
+yi dui 	一堆	c=1 d=0.873716 t=10680
+yi er 	一二	c=1 d=0.891366 t=10680
+yi fu 	衣服	c=1 d=0.895834 t=10680
+yi ge 	一个	c=31 d=7.10801 t=10680
+yi ge ren 	一个人	c=1 d=0.722527 t=10680
+yi ge ye 	一个也	c=1 d=0.882496 t=10680
+yi gen 	已跟	c=2 d=1.85156 t=10680
+yi gu 	一股	c=1 d=0.946486 t=10680
+yi hou 	以后	c=4 d=1.4269 t=10680
+yi hua 	异化	c=1 d=0.759572 t=10680
+yi hui 	一会	c=2 d=1.01331 t=10680
+yi huo 	疑惑	c=2 d=1.77383 t=10680
+yi ji 	以及	c=5 d=2.79934 t=10680
+yi jian qing chu 	一键清除	c=4 d=2.20377 t=10680
+yi jing 	已经	c=26 d=6.16423 t=10680
+yi kai shi 	一开始	c=1 d=0.798516 t=10680
+yi kan 	一看	c=1 d=0.810584 t=10680
+yi kuai 	一块	c=4 d=1.53443 t=10680
+yi kuan 	一款	c=1 d=0.790571 t=10680
+yi lai 	依赖	c=10 d=3.19775 t=10680
+yi ming 	一名	c=1 d=0.852144 t=10680
+yi nei 	以内	c=3 d=2.60327 t=10680
+yi qi 	一起	c=4 d=2.06885 t=10680
+yi qi shang 	一起上	c=1 d=0.690734 t=10680
+yi qian 	以前	c=2 d=1.46807 t=10680
+yi qie 	一切	c=2 d=1.1772 t=10680
+yi qu 	一曲	c=1 d=0.798516 t=10680
+yi ren 	一人	c=1 d=0.798516 t=10680
+yi shi ban hui 	一时半会	c=1 d=0.767206 t=10680
+yi si 	意思	c=11 d=5.22407 t=10680
+yi tao 	一套	c=1 d=0.759572 t=10680
+yi tian 	一天	c=2 d=1.50692 t=10680
+yi tian tian 	一天天	c=2 d=1.4042 t=10680
+yi tiao 	一条	c=3 d=1.71384 t=10680
+yi wai 	以外	c=2 d=0.941764 t=10680
+yi wai 	意外	c=1 d=0.40657 t=10680
+yi wu 	遗物	c=2 d=1.75248 t=10680
+yi xia 	一下	c=45 d=6.3332 t=10680
+yi xia zi 	一下子	c=1 d=0.621885 t=10680
+yi xie 	一些	c=4 d=1.91658 t=10680
+yi yan 	一眼	c=1 d=0.822835 t=10680
+yi you 	已有	c=1 d=0.843665 t=10680
+yi zhang 	一张	c=1 d=0.960789 t=10680
+yi zhi 	一直	c=3 d=1.31849 t=10680
+yi zhi 	一致	c=3 d=1.88896 t=10680
+yi zhong 	一种	c=1 d=0.798516 t=10680
+yi zhou 	一周	c=1 d=0.687289 t=10680
+yin 	因	c=3 d=2.21496 t=10680
+yin 	音	c=2 d=1.46206 t=10680
+yin cang 	隐藏	c=2 d=1.61824 t=10680
+yin dao 	引导	c=1 d=0.657047 t=10680
+yin hang 	银行	c=1 d=0.932393 t=10680
+yin hang ka 	银行卡	c=1 d=0.744531 t=10680
+yin qi 	引起	c=3 d=2.19988 t=10680
+yin ru 	引入	c=2 d=1.61287 t=10680
+yin wei 	因为	c=5 d=2.27376 t=10680
+yin xu 	尹旭	c=1 d=0.408608 t=10680
+yin yue 	音乐	c=2 d=1.53863 t=10680
+ying 	应	c=1 d=0.574072 t=10680
+ying gai 	应该	c=30 d=6.75578 t=10680
+ying gai shi 	应该是	c=1 d=0.97531 t=10680
+ying jian 	硬件	c=1 d=0.965606 t=10680
+ying tou 	盈透	c=2 d=1.8345 t=10680
+ying wen 	英文	c=1 d=0.904837 t=10680
+ying xiang 	影响	c=9 d=2.97593 t=10680
+ying yong 	应用	c=2 d=1.57894 t=10680
+yong 	用	c=28 d=5.11896 t=10680
+yong bu 	永不	c=0 d=0.0960789 t=10680
+yong bu dong 	永不动	c=1 d=0.965606 t=10680
+yong dao 	用到	c=1 d=0.856415 t=10680
+yong hu 	用户	c=14 d=5.95474 t=10680
+yong min 	永民	c=1 d=0.755783 t=10680
+yong pin 	用品	c=1 d=0.752015 t=10680
+yong sha 	用啥	c=1 d=0.97531 t=10680
+yong wan 	用完	c=2 d=1.893 t=10680
+yong yi 	泳衣	c=1 d=0.960789 t=10680
+you 	又	c=10 d=2.8115 t=10680
+you 	右	c=1 d=0.843665 t=10680
+you 	有	c=124 d=11.1295 t=10680
+you 	由	c=1 d=0.95123 t=10680
+you ce 	右侧	c=1 d=0.95123 t=10680
+you de 	有的	c=2 d=1.48764 t=10680
+you dian 	有点	c=4 d=2.20609 t=10680
+you duan 	有段	c=1 d=0.343009 t=10680
+you ge 	有个	c=4 d=2.17571 t=10680
+you gen 	有跟	c=1 d=0.386741 t=10680
+you guan 	有关	c=2 d=1.77065 t=10680
+you hua 	优化	c=1 d=0.852144 t=10680
+you hui 	优惠	c=1 d=0.767206 t=10680
+you kai shi 	又开始	c=1 d=0.904837 t=10680
+you mei you 	有没有	c=6 d=2.8574 t=10680
+you qi 	尤其	c=1 d=0.715338 t=10680
+you qian 	有钱	c=1 d=0.535262 t=10680
+you sha 	有啥	c=2 d=1.38426 t=10680
+you shang jiao 	右上角	c=1 d=0.937067 t=10680
+you shi 	又是	c=2 d=0.923116 t=10680
+you shi 	有时	c=2 d=1.11396 t=10680
+you shuo 	又说	c=1 d=0.810584 t=10680
+you xi 	游戏	c=1 d=0.524662 t=10680
+you xian 	优先	c=3 d=2.1117 t=10680
+you xiao 	有效	c=1 d=0.856415 t=10680
+you xie 	有些	c=1 d=0.603505 t=10680
+you xie ren 	有些人	c=1 d=0.729789 t=10680
+you yan bu jin 	油盐不进	c=1 d=0.683861 t=10680
+you you 	又有	c=1 d=0.68045 t=10680
+you yu 	由于	c=2 d=1.10779 t=10680
+you zhong 	有种	c=1 d=0.737124 t=10680
+yu 	与	c=9 d=4.01088 t=10680
+yu 	鱼	c=1 d=0.839457 t=10680
+yu bao 	玉宝	c=2 d=1.25894 t=10680
+yu dong jie 	玉冬姐	c=1 d=0.814647 t=10680
+yu e bao 	余额宝	c=1 d=0.715338 t=10680
+yu gu 	预估	c=1 d=0.794533 t=10680
+yu ji 	预计	c=1 d=0.95123 t=10680
+yu yan 	语言	c=3 d=2.20475 t=10680
+yuan dan 	元旦	c=2 d=1.57404 t=10680
+yuan dian 	原点	c=1 d=0.865022 t=10680
+yuan dian 	远点	c=1 d=0.860708 t=10680
+yuan lai 	原来	c=1 d=0.697676 t=10680
+yuan li 	原理	c=1 d=0.782705 t=10680
+yuan sheng 	原生	c=4 d=2.96873 t=10680
+yuan xian de 	原先的	c=1 d=0.970445 t=10680
+yuan yin 	原因	c=3 d=1.62967 t=10680
+yue 	悦	c=1 d=0.66034 t=10680
+yue 	月	c=10 d=3.1388 t=10680
+yue 	越	c=0 d=0.0546074 t=10680
+yue chu 	月初	c=1 d=0.843665 t=10680
+yue fen 	月份	c=1 d=0.960789 t=10680
+yue jie 	悦姐	c=1 d=0.687289 t=10680
+yue nan shou 	越难受	c=1 d=0.548812 t=10680
+yue qu 	乐曲	c=1 d=0.704688 t=10680
+yue suan 	越算	c=1 d=0.546074 t=10680
+yue yue 	月月	c=1 d=0.810584 t=10680
+yun 	云	c=0 d=0.0697676 t=10680
+yun che 	晕车	c=1 d=0.737124 t=10680
+yun shang 	云上	c=1 d=0.690734 t=10680
+yun xing 	运行	c=1 d=0.960789 t=10680
+yun ying 	运营	c=2 d=1.67485 t=10680
+za 	咋	c=2 d=0.904837 t=10680
+za di za di 	咋的咋的	c=1 d=0.860708 t=10680
+za fa 	咋发	c=1 d=0.778801 t=10680
+za hui shi 	咋回事	c=1 d=0.640824 t=10680
+za le 	咋了	c=1 d=0.960789 t=10680
+za yang 	咋样	c=2 d=1.26271 t=10680
+zai 	再	c=29 d=5.89786 t=10680
+zai 	在	c=87 d=10.5292 t=10680
+zai bang 	再帮	c=1 d=0.603505 t=10680
+zai chu 	再出	c=1 d=0.941764 t=10680
+zai ci 	再次	c=1 d=0.778801 t=10680
+zai kan 	再看	c=1 d=0.755783 t=10680
+zai na 	在哪	c=1 d=0.923116 t=10680
+zai na li 	在哪里	c=1 d=0.814647 t=10680
+zai ni men 	在你们	c=1 d=0.594521 t=10680
+zai qun li 	在群里	c=0 d=0.0806541 t=10680
+zai ru 	再入	c=1 d=0.937067 t=10680
+zai wo 	在我	c=1 d=0.83527 t=10680
+zai xie 	再写	c=1 d=0.970445 t=10680
+zai zhe 	在这	c=1 d=0.913931 t=10680
+zan 	咱	c=1 d=0.625002 t=10680
+zan jia 	咱家	c=1 d=0.818731 t=10680
+zan lia 	咱俩	c=1 d=0.687289 t=10680
+zan shi 	暂时	c=3 d=1.8376 t=10680
+zan ting 	暂停	c=2 d=1.16895 t=10680
+zan ye 	咱也	c=1 d=0.67032 t=10680
+zao 	早	c=8 d=3.31106 t=10680
+zao shang 	早上	c=3 d=2.496 t=10680
+zao tui xiu 	早退休	c=1 d=0.509157 t=10680
+zao zhe ne 	早着呢	c=2 d=1.24491 t=10680
+zao zhi dao 	早知道	c=1 d=0.718923 t=10680
+ze 	则	c=2 d=1.22155 t=10680
+zen 	怎	c=1 d=0.904837 t=10680
+zen me 	怎么	c=52 d=10.4896 t=10680
+zeng jia 	增加	c=1 d=0.733447 t=10680
+zhan 	站	c=1 d=0.771052 t=10680
+zhan kai 	展开	c=4 d=2.74013 t=10680
+zhang 	张	c=14 d=3.76896 t=10680
+zhang 	长	c=1 d=0.554327 t=10680
+zhang hao 	账号	c=3 d=2.67274 t=10680
+zhang ming 	张铭	c=1 d=0.909373 t=10680
+zhang shang tian 	涨上天	c=1 d=0.327915 t=10680
+zhang shuai 	张帅	c=1 d=0.955998 t=10680
+zhang ting 	涨停	c=1 d=0.970445 t=10680
+zhao 	找	c=2 d=1.57075 t=10680
+zhao 	赵	c=1 d=0.786627 t=10680
+zhao bu dao 	找不到	c=2 d=1.77066 t=10680
+zhao dao 	找到	c=1 d=0.918513 t=10680
+zhao gu 	照顾	c=1 d=0.634448 t=10680
+zhao liang 	着凉	c=1 d=0.904837 t=10680
+zhao ni 	找你	c=1 d=0.70822 t=10680
+zhao pian 	照片	c=1 d=0.869358 t=10680
+zhao wo 	找我	c=1 d=0.895834 t=10680
+zhe 	折	c=1 d=0.472367 t=10680
+zhe 	着	c=2 d=1.36754 t=10680
+zhe 	这	c=16 d=4.59761 t=10680
+zhe bi 	这笔	c=1 d=0.923116 t=10680
+zhe bian 	这边	c=3 d=0.852413 t=10680
+zhe bo 	这波	c=1 d=0.582749 t=10680
+zhe bu 	这不	c=6 d=2.34258 t=10680
+zhe bu shi 	这不是	c=1 d=0.715338 t=10680
+zhe ci 	这次	c=2 d=1.25982 t=10680
+zhe die 	折叠	c=0 d=0.0852144 t=10680
+zhe ge 	这个	c=207 d=15.619 t=10680
+zhe hui 	这回	c=1 d=0.83527 t=10680
+zhe ji ge 	这几个	c=1 d=0.818731 t=10680
+zhe ji tian 	这几天	c=1 d=0.701174 t=10680
+zhe ji zhang 	这几张	c=1 d=0.839457 t=10680
+zhe kuai 	这块	c=2 d=0.985151 t=10680
+zhe li 	这里	c=12 d=3.45797 t=10680
+zhe lia 	这俩	c=2 d=1.61594 t=10680
+zhe liang ge 	这两个	c=4 d=2.20263 t=10680
+zhe liang zhang 	这两张	c=1 d=0.865022 t=10680
+zhe shi 	这是	c=4 d=2.2933 t=10680
+zhe xie 	这些	c=6 d=2.25248 t=10680
+zhe yang 	这样	c=13 d=2.75875 t=10680
+zhe yi bo 	这一波	c=1 d=0.767206 t=10680
+zhe yi chu 	这一出	c=1 d=0.737124 t=10680
+zhe zhong 	这种	c=15 d=3.66322 t=10680
+zhe zhou 	这周	c=1 d=0.865022 t=10680
+zhen 	真	c=3 d=1.79863 t=10680
+zhen hao 	真好	c=2 d=1.45391 t=10680
+zhen shi 	真是	c=2 d=1.14646 t=10680
+zhen zheng 	真正	c=1 d=0.860708 t=10680
+zhen zhu 	珍珠	c=4 d=2.44742 t=10680
+zheng 	挣	c=4 d=2.19916 t=10680
+zheng 	整	c=1 d=0.733447 t=10680
+zheng 	正	c=1 d=0.465334 t=10680
+zheng bu dao 	挣不到	c=1 d=0.932393 t=10680
+zheng ce 	政策	c=1 d=0.814647 t=10680
+zheng chang 	正常	c=14 d=5.92966 t=10680
+zheng dian qian 	挣点钱	c=1 d=0.621885 t=10680
+zheng fu ji 	正负极	c=1 d=0.970445 t=10680
+zheng ge 	整个	c=1 d=0.701174 t=10680
+zheng gu 	正股	c=4 d=1.72643 t=10680
+zheng hao 	正好	c=1 d=0.886921 t=10680
+zheng li 	整理	c=1 d=0.778801 t=10680
+zheng qian 	挣钱	c=4 d=1.28896 t=10680
+zheng qu 	争取	c=1 d=0.970445 t=10680
+zheng ti 	整体	c=1 d=0.782705 t=10680
+zheng yang 	正阳	c=1 d=0.886921 t=10680
+zheng zai 	正在	c=3 d=1.8435 t=10680
+zheng zhou 	郑州	c=2 d=1.29087 t=10680
+zheng zhun bei 	正准备	c=1 d=0.470011 t=10680
+zhi 	值	c=2 d=1.77065 t=10680
+zhi 	只	c=8 d=2.54577 t=10680
+zhi 	指	c=1 d=0.543351 t=10680
+zhi 	直	c=1 d=0.456119 t=10680
+zhi chao 	智超	c=0 d=0.071177 t=10680
+zhi dao 	知道	c=4 d=1.4644 t=10680
+zhi fu bao 	支付宝	c=3 d=1.46684 t=10680
+zhi gei 	指给	c=0 d=0.068045 t=10680
+zhi gei wo 	指给我	c=1 d=0.683861 t=10680
+zhi hou 	之后	c=10 d=3.22597 t=10680
+zhi hui 	只会	c=1 d=0.937067 t=10680
+zhi hui 	智慧	c=1 d=0.802519 t=10680
+zhi jie 	直接	c=28 d=5.44453 t=10680
+zhi lei 	之类	c=2 d=0.960789 t=10680
+zhi ling 	指令	c=1 d=0.822835 t=10680
+zhi ming 	知名	c=1 d=0.932393 t=10680
+zhi neng 	只能	c=2 d=1.45211 t=10680
+zhi neng shuo 	只能说	c=1 d=0.786627 t=10680
+zhi qian 	之前	c=26 d=5.75328 t=10680
+zhi qian de 	之前的	c=1 d=0.913931 t=10680
+zhi shao 	至少	c=2 d=1.7284 t=10680
+zhi sheng 	只剩	c=1 d=0.886921 t=10680
+zhi shi 	只是	c=2 d=1.54287 t=10680
+zhi shi ge 	只是个	c=1 d=0.798516 t=10680
+zhi wen 	指纹	c=2 d=1.82335 t=10680
+zhi xian 	直线	c=1 d=0.960789 t=10680
+zhi xian shi 	只显示	c=1 d=0.965606 t=10680
+zhi xing 	执行	c=11 d=3.39149 t=10680
+zhi xu 	只需	c=2 d=1.36882 t=10680
+zhi xu yao 	只需要	c=2 d=1.42314 t=10680
+zhi yao 	只要	c=1 d=0.786627 t=10680
+zhi you 	只有	c=14 d=3.18096 t=10680
+zhi yuan 	支援	c=2 d=1.42665 t=10680
+zhi zai 	只在	c=2 d=1.81548 t=10680
+zhong 	中	c=33 d=9.05601 t=10680
+zhong 	众	c=1 d=0.65377 t=10680
+zhong 	种	c=1 d=0.923116 t=10680
+zhong 	重	c=1 d=0.932393 t=10680
+zhong cang 	重仓	c=1 d=0.774917 t=10680
+zhong duan 	终端	c=3 d=2.20472 t=10680
+zhong ge 	众哥	c=19 d=7.81195 t=10680
+zhong guo 	中国	c=1 d=0.97531 t=10680
+zhong qiu 	中秋	c=1 d=0.818731 t=10680
+zhong wen 	中文	c=2 d=1.43706 t=10680
+zhong wu 	中午	c=5 d=2.09191 t=10680
+zhong xin 	中心	c=37 d=9.31675 t=10680
+zhong xun 	中旬	c=1 d=0.909373 t=10680
+zhong ying 	中英	c=2 d=1.33893 t=10680
+zhong zhou yun 	中州韵	c=1 d=0.467666 t=10680
+zhong zhuan 	中转	c=1 d=0.767206 t=10680
+zhou 	周	c=1 d=0.960789 t=10680
+zhou liu 	周六	c=2 d=1.40755 t=10680
+zhou mo 	周末	c=2 d=1.63657 t=10680
+zhou wu 	周五	c=2 d=1.62119 t=10680
+zhou zhong 	周众	c=1 d=0.5975 t=10680
+zhu 	煮	c=1 d=0.748264 t=10680
+zhu bu 	逐步	c=1 d=0.491644 t=10680
+zhu ce 	注册	c=1 d=0.782705 t=10680
+zhu dong 	主动	c=1 d=0.970445 t=10680
+zhu ma dian 	驻马店	c=0 d=0.0794533 t=10680
+zhu ru 	注入	c=1 d=0.582749 t=10680
+zhu shou 	助手	c=0 d=0.0970445 t=10680
+zhu ti 	主题	c=1 d=0.847893 t=10680
+zhu xian 	主线	c=9 d=5.30412 t=10680
+zhu xian cheng 	主线程	c=1 d=0.650509 t=10680
+zhu yao 	主要	c=6 d=1.70518 t=10680
+zhu yi 	注意	c=1 d=0.900324 t=10680
+zhu yi tian 	住一天	c=1 d=0.600495 t=10680
+zhu zhen 	逐帧	c=1 d=0.923116 t=10680
+zhua jin dian 	抓紧点	c=1 d=0.663651 t=10680
+zhuan 	传	c=1 d=0.869358 t=10680
+zhuan 	赚	c=15 d=5.62696 t=10680
+zhuan 	转	c=1 d=0.551562 t=10680
+zhuan gei 	转给	c=2 d=1.5253 t=10680
+zhuan jia 	专家	c=2 d=0.960789 t=10680
+zhuan jie qi 	转接器	c=1 d=0.860708 t=10680
+zhuan men 	专门	c=2 d=0.703813 t=10680
+zhuan qian 	赚钱	c=1 d=0.960789 t=10680
+zhuang tai 	状态	c=6 d=2.33658 t=10680
+zhuang tai lan 	状态栏	c=2 d=1.30408 t=10680
+zhuang xiu 	装修	c=2 d=0.564779 t=10680
+zhun bei 	准备	c=3 d=1.282 t=10680
+zhuo mian 	桌面	c=1 d=0.822835 t=10680
+zhuo zi 	桌子	c=1 d=0.690734 t=10680
+zi chan 	资产	c=1 d=0.782705 t=10680
+zi dai 	自带	c=1 d=0.882496 t=10680
+zi dan 	子弹	c=2 d=0.954102 t=10680
+zi ding yi 	自定义	c=3 d=1.49714 t=10680
+zi dong 	自动	c=10 d=2.77747 t=10680
+zi duan 	字段	c=1 d=0.913931 t=10680
+zi fu 	字符	c=2 d=1.61055 t=10680
+zi ji 	自己	c=16 d=5.72749 t=10680
+zi jin cheng 	子进程	c=2 d=1.26282 t=10680
+zi ti 	字体	c=1 d=0.856415 t=10680
+zi yong 	自用	c=1 d=1 t=10677
+zi yuan 	资源	c=3 d=2.56827 t=10680
+zi zhu 	自主	c=0 d=0.083527 t=10680
+zong gong 	总共	c=1 d=0.591556 t=10680
+zong hui 	总会	c=1 d=0.826959 t=10680
+zong jie 	总结	c=2 d=1.36162 t=10680
+zong shi 	总是	c=2 d=1.22424 t=10680
+zong suan shi 	总算是	c=1 d=0.960789 t=10680
+zong ti 	总体	c=1 d=0.946486 t=10680
+zong ye shu 	总页数	c=1 d=0.814647 t=10680
+zou 	走	c=9 d=3.51885 t=10680
+zou dao 	走到	c=1 d=0.895834 t=10680
+zou jin lai 	走进来	c=1 d=0.759572 t=10680
+zou shi 	走势	c=1 d=0.373439 t=10680
+zou yi quan 	走一圈	c=1 d=0.576949 t=10680
+zu 	组	c=0 d=0.0856415 t=10680
+zu 	阻	c=0 d=0.12674 t=10680
+zu fang 	租房	c=1 d=0.891366 t=10680
+zu nei 	组内	c=1 d=0.489192 t=10680
+zu shi 	祖师	c=1 d=0.960789 t=10680
+zu tong zhi 	组通知	c=2 d=1.559 t=10680
+zui 	最	c=2 d=1.30164 t=10680
+zui chi 	最迟	c=1 d=0.782705 t=10680
+zui da 	最大	c=0 d=0.0946486 t=10680
+zui da biao ji 	最大标记	c=1 d=0.95123 t=10680
+zui hou 	最后	c=4 d=2.18841 t=10680
+zui jin 	最近	c=8 d=2.69565 t=10680
+zui kai shi 	最开始	c=1 d=0.955998 t=10680
+zui xi huan 	最喜欢	c=1 d=0.767206 t=10680
+zui xiao hua 	最小化	c=1 d=0.932393 t=10680
+zui xin 	最新	c=1 d=0.621885 t=10680
+zui you 	最优	c=1 d=0.83527 t=10680
+zui zao 	最早	c=1 d=0.733447 t=10680
+zui zhong 	最终	c=4 d=2.2774 t=10680
+zuo 	作	c=1 d=0.782705 t=10680
+zuo 	做	c=11 d=3.72673 t=10680
+zuo 	坐	c=1 d=0.965606 t=10680
+zuo 	座	c=1 d=0.481909 t=10680
+zuo che 	坐车	c=1 d=0.740818 t=10680
+zuo dao 	做到	c=1 d=0.810584 t=10680
+zuo hao 	做好	c=1 d=0.767206 t=10680
+zuo meng 	做梦	c=3 d=2.67985 t=10680
+zuo shang jiao 	左上角	c=1 d=1.03911 t=10680
+zuo shang jiao ma 	左上角吗	c=1 d=0.946486 t=10680
+zuo tian 	昨天	c=14 d=4.41015 t=10680
+zuo yong 	作用	c=7 d=3.18333 t=10680
+zuo you 	左右	c=2 d=1.54196 t=10680

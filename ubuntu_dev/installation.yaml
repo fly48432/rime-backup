@@ -1,0 +1,9 @@
+distribution_code_name: "fcitx-rime"
+distribution_name: Rime
+distribution_version: 5.1.4
+install_time: "Tue Dec 30 15:21:14 2025"
+installation_id: "ubuntu_dev"
+rime_version: 1.10.0
+
+# 同步文件夹
+sync_dir: "/home/mi/personal/RimeSync"
